@@ -23,6 +23,7 @@
 			<div class="top-header">
 				<div class="container">
 					<div class="top-header-left">
+
 						<div class="top-header-block">
 							<a href="mailto:info@educationpro.com" itemprop="email"><i class="fas fa-envelope"></i> info@educationpro.com</a>
 						</div>
@@ -57,33 +58,26 @@
 					<div class="nav-wrap">
 						<nav class="nav-desktop">
 							<ul class="menu-list">
-                                <img src="images/logo.jpg" alt="Logo Image"width="100" height="50"style="margin-left: 0;">
 								<li><a href="#">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
-										<li><a href="#">Historia</a></li>
-										<li><a href="#">Mensaje del director</a></li>
-                                        <li><a href="#">Misión, visión y valores</a></li>
-                                        <li><a href="#">Instalaciones</a></li>
-										<li class="menu-parent">Child
-											<ul class="sub-menu">
-												<li><a href="">Grand-child</a></li>
-												<li><a href="">Grand-child</a></li>
-											</ul>
-										</li>
+										<li><a href="historia">Historia</a></li>
+										<li><a href="mensaje">Mensaje del director</a></li>
+                                        <li><a href="mvv">Misión, visión y valores</a></li>
+                                        <li><a href="instalaciones">Instalaciones</a></li>
 									</ul>
 								</li>
 								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="#">Programación</a></li>
-										<li><a href="#">Soporte y mantenimiento</a></li>
-                                        <li><a href="#">Administración de recursos humanos</a></li>
+										<li><a href="programacion">Programación</a></li>
+										<li><a href="sym">Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Administración de recursos humanos</a></li>
 									</ul>
 								</li>
                                 <li class="menu-parent">Alumnos
 									<ul class="sub-menu">
 										<li><a href="#">Becas</a></li>
-										<li><a href="#">atlas surems</a></li>
+										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
                                         <li><a href="#">Reglamento escolar</a></li>
                                         <li><a href="#">clubes</a></li>
                                         <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
