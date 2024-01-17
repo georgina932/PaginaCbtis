@@ -90,12 +90,12 @@
 		<!-- Header Close -->
 		<div class="banner">
 			<div class="owl-four owl-carousel">
-				<img src="images/page-banner.jpg" alt="Image of Bannner">
+				<img src="images/historia.jpg" alt="Image of Bannner">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
 				<img src="images/page-banner3.jpg" alt="Image of Bannner">
 			</div>
 			<div class="container">
-				<h1>welcome to education pro</h1>
+				<h1>Historia del plantel</h1>
 				<h3>With our advance search feature you can now find the trips for you...</h3>
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
@@ -130,7 +130,7 @@
 				<article class="page-article" itemprop="blogPost">
 					<h1 itemprop="about">Top 10 collegs of 2018 in Nepal.</h1>
 					<span><a href="#" itemprop="author">By Spyders Lab</a><a href="#">In Business</a><a href="#">Posted on 2nd December, 2018</a><a href="#">5 Comments</a></span>
-					<img itemprop="image" src="images/top-college-pic.jpg" alt="Image">
+					<img itemprop="image" src="images/h2.jpg" alt="Image">
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

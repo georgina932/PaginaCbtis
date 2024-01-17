@@ -122,13 +122,13 @@
 		<!-- Header Close -->
 		<div class="banner">
 			<div class="owl-four owl-carousel" itemprop="image">
-				<img src="images/page-banner.jpg" alt="Image of Bannner">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
+				<img src="images/page-banner.jpg" alt="Image of Bannner">
 				<img src="images/page-banner3.jpg" alt="Image of Bannner">
 			</div>
 			<div class="container" itemprop="description">
-				<h1>¡CBTIS 255!</h1>
-				<h2>Lobos grises</h2>
+				<h1>¡CBTIS 255! LOBOS GRISES</h1>
+				<h2></h2>
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
@@ -247,7 +247,7 @@
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
-							<div class="img-wrap"  itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
+							<div class="img-wrap"  itemprop="image"><img src="images/insta.jpg" alt="courses picture"></div>
 								<a href="#" class="learn-desining-banner" itemprop="name">Conoce el plantel >>></a>
 							<div class="box-body" itemprop="description">
 								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
