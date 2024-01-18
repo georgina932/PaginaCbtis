@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>historia</title>
+	<title>Mensaje</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
@@ -47,34 +47,67 @@
 			<!-- Top header Close -->
 			<div class="main-header">
 				<div class="container">
-					<div class="logo-wrap">
-						<img src="images/site-logo.jpg" alt="Logo Image">
+					<div class="logo-wrap" itemprop="logo">
+
+						<!-- <h1>Education</h1> -->
 					</div>
 					<div class="nav-wrap">
+
 						<nav class="nav-desktop">
 							<ul class="menu-list">
-								<li><a href="#">Home</a></li>
-								<li class="menu-parent">Courses
+                                <img src="images/logo2.png" alt="Logo Image" style=" margin-left: -350px;">
+                                <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
+
+
+								<li><a href="#">Inicio</a></li>
+								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
-										<li><a href="#">Child</a></li>
-										<li><a href="#">Child</a></li>
-										<li class="menu-parent">Child
-											<ul class="sub-menu">
-												<li><a href="">Grand-child</a></li>
-												<li><a href="">Grand-child</a></li>
-											</ul>
-										</li>
+										<li><a href="historia">Historia</a></li>
+										<li><a href="mensaje">Mensaje del director</a></li>
+                                        <li><a href="mvv">Misión, visión y valores</a></li>
+                                        <li><a href="instalaciones">Instalaciones</a></li>
 									</ul>
 								</li>
-								<li class="menu-parent">News
+								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="#">Child</a></li>
-										<li><a href="#">Child</a></li>
+										<li><a href="programacion">Programación</a></li>
+										<li><a href="sym">Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Administración de recursos humanos</a></li>
 									</ul>
 								</li>
-								<li><a href="">About</a></li>
-								<li><a href="">Gallery</a></li>
-								<li><a href="">Contact</a></li>
+                                <li class="menu-parent">Alumnos
+									<ul class="sub-menu">
+										<li><a href="#">Becas</a></li>
+										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
+                                        <li><a href="#">Reglamento escolar</a></li>
+                                        <li><a href="#">clubes</a></li>
+                                        <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Aspirantes
+									<ul class="sub-menu">
+										<li><a href="#">Proceso de admisión</a></li>
+										<li><a href="#">Requisitos</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Servicios escolares
+									<ul class="sub-menu">
+										<li><a href="#">Inscripciones</a></li>
+										<li><a href="#">Boletas e historiales</a></li>
+                                        <li><a href="#">Emisión de certificados </a></li>
+                                        <li><a href="#">Constancias</a></li>
+                                        <li><a href="#">Prácticas</a></li>
+                                        <li><a href="#">Servicio social</a></li>
+                                        <li><a href="#">Titulación</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Transparencia
+									<ul class="sub-menu">
+										<li><a href="#">Rendición de cuentas</a></li>
+
+									</ul>
+								</li>
+
 							</ul>
 						</nav>
 						<div id="bar">
@@ -88,7 +121,7 @@
 			</div>
 		</header>
 		<!-- Header Close -->
-		<div class="banner">
+		<!--<div class="banner">
 			<div class="owl-four owl-carousel">
 				<img src="images/page-banner.jpg" alt="Image of Bannner">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
@@ -99,89 +132,15 @@
 				<h3>With our advance search feature you can now find the trips for you...</h3>
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
-		</div>
-		<!-- <div class="banner">
-			<div class="owl-five owl-carousel owl-theme">
-	            <div class="item-video">
-            		<iframe width="100%" height="450" src="https://www.youtube.com/embed/ENVW3uZ3a-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            		</iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/0bfk90rWV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/ktvTqknDobU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-	            <div class="item-video">
-            		<iframe width="100%" height="450" src="https://www.youtube.com/embed/ENVW3uZ3a-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            		</iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/0bfk90rWV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/ktvTqknDobU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-          </div>
 		</div> -->
+
 		<!-- Banner Close -->
 		<div class="page-content" itemscope itemtype=" http://schema.org/Blog">
 			<div class="container">
 				<article class="page-article" itemprop="blogPost">
-					<h1 itemprop="about">Top 10 collegs of 2018 in Nepal.</h1>
-					<span><a href="#" itemprop="author">By Spyders Lab</a><a href="#">In Business</a><a href="#">Posted on 2nd December, 2018</a><a href="#">5 Comments</a></span>
+					<h1 itemprop="about">MENSAJE DEL DIRECTOR</h1>
+					
 					<img itemprop="image" src="images/top-college-pic.jpg" alt="Image">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -244,7 +203,7 @@
 					</div>
 					<!-- Recent Post Close -->
 				</aside>
-				<section class="comment-section">
+				<!--<section class="comment-section">
 					<div id="comments" class="comments-area comment" itemprop="comment">
 								<h3 class="comments-title">8 Comments</h3>
 								<ol class="comment-list">
@@ -341,7 +300,7 @@
 						</form>
 						<p>Note: Your email address will not be published</p>
 					</div>
-				</section>
+				</section> -->
 			</div>
 		</div>
 		<!-- Page-content closed -->

@@ -286,8 +286,8 @@
 					<ul>
 						<li><i class="fas fa-book"></i> Direccción</li>
 						<li><i class="fas fa-money-check-alt"></i> Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico</li>
-						<li><i class="fas fa-chalkboard-teacher"></i> experienced teachers</li>
-						<li> <i class="fas fa-book"></i> free books for students</li>
+						<li><i class="fas fa-chalkboard-teacher"></i> Horario de atención: 7:00 am - 4 pm</li>
+						<li> <i class="fas fa-book"></i> teléfono</li>
 					</ul>
 				</div>
 				<div class="whyus-wrap">
