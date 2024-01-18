@@ -53,11 +53,15 @@
 			<div class="main-header">
 				<div class="container">
 					<div class="logo-wrap" itemprop="logo">
+
 						<!-- <h1>Education</h1> -->
 					</div>
 					<div class="nav-wrap">
+
 						<nav class="nav-desktop">
 							<ul class="menu-list">
+								<img src="images/logo2.png" alt="Logo Image" style=" margin-left: -350px;">
+								<img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
 								<li><a href="#">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
@@ -124,10 +128,10 @@
 			<div class="owl-four owl-carousel" itemprop="image">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
 				<img src="images/page-banner.jpg" alt="Image of Bannner">
-				<img src="images/page-banner3.jpg" alt="Image of Bannner">
+				<img src="images/page-banner33.jpg" alt="Image of Bannner">
 			</div>
 			<div class="container" itemprop="description">
-				<h1>¡CBTIS 255! LOBOS GRISES</h1>
+				<h1 style="color: black; font-size: 40px;">¡CBTIS 255! LOBOS GRISES</h1>
 				<h2></h2>
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
@@ -207,7 +211,7 @@
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
-							<div class="img-wrap"  itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
+							<div class="img-wrap"  itemprop="image"><img src="images/visita.jpg" alt="courses picture"></div>
 								<a href="#" class="learn-desining-banner" itemprop="name">visitas >>></a>
 							<div class="box-body" itemprop="description">
 								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
@@ -234,8 +238,8 @@
 				<div class="courses">
 					<div class="owl-one owl-carousel">
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
-							<div class="img-wrap" itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Facebook >>></a>
+							<div class="img-wrap" itemprop="image"><img src="images/face.jpg" alt="courses picture"></div>
+								<a href="https://www.facebook.com/cbtis255/about?locale=es_LA" class="learn-desining-banner" itemprop="name">Facebook >>></a>
 							<div class="box-body" itemprop="description">
 								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
 								<section itemprop="time">
@@ -248,7 +252,7 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/insta.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Conoce el plantel >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name">Instalaciones >>></a>
 							<div class="box-body" itemprop="description">
 								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
 								<section itemprop="time">
@@ -281,7 +285,7 @@
 				<div class="featured-points">
 					<ul>
 						<li><i class="fas fa-book"></i> Direccción</li>
-						<li><i class="fas fa-money-check-alt"></i> affordable fees</li>
+						<li><i class="fas fa-money-check-alt"></i> Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico</li>
 						<li><i class="fas fa-chalkboard-teacher"></i> experienced teachers</li>
 						<li> <i class="fas fa-book"></i> free books for students</li>
 					</ul>
