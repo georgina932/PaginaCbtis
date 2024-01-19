@@ -73,9 +73,9 @@
 								</li>
 								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="programacion">Programación</a></li>
-										<li><a href="sym">Soporte y mantenimiento</a></li>
-                                        <li><a href="RH">Administración de recursos humanos</a></li>
+										<li><a href="programacion">Técnico en Programación</a></li>
+										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
 									</ul>
 								</li>
                                 <li class="menu-parent">Alumnos

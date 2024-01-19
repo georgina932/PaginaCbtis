@@ -50,34 +50,67 @@
 			<!-- Top header Close -->
 			<div class="main-header">
 				<div class="container">
-					<div class="logo-wrap">
-						<img src="images/site-logo.jpg" alt="Logo Image">
+					<div class="logo-wrap" itemprop="logo">
+
+						<!-- <h1>Education</h1> -->
 					</div>
 					<div class="nav-wrap">
+
 						<nav class="nav-desktop">
 							<ul class="menu-list">
-								<li><a href="index">Home</a></li>
-								<li class="menu-parent">Courses
+                                <img src="images/logo2.png" alt="Logo Image" style=" margin-left: -350px;">
+                                <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
+
+
+								<li><a href="#">Inicio</a></li>
+								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
-										<li><a href="#">Child</a></li>
-										<li><a href="#">Child</a></li>
-										<li class="menu-parent">Child
-											<ul class="sub-menu">
-												<li><a href="">Grand-child</a></li>
-												<li><a href="">Grand-child</a></li>
-											</ul>
-										</li>
+										<li><a href="historia">Historia</a></li>
+										<li><a href="mensaje">Mensaje del director</a></li>
+                                        <li><a href="mvv">Misión, visión y valores</a></li>
+                                        <li><a href="instalaciones">Instalaciones</a></li>
 									</ul>
 								</li>
-								<li class="menu-parent">News
+								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="#">Child</a></li>
-										<li><a href="#">Child</a></li>
+										<li><a href="programacion">Técnico en Programación</a></li>
+										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
 									</ul>
 								</li>
-								<li><a href="">About</a></li>
-								<li><a href="">Gallery</a></li>
-								<li><a href="">Contact</a></li>
+                                <li class="menu-parent">Alumnos
+									<ul class="sub-menu">
+										<li><a href="#">Becas</a></li>
+										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
+                                        <li><a href="#">Reglamento escolar</a></li>
+                                        <li><a href="#">clubes</a></li>
+                                        <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Aspirantes
+									<ul class="sub-menu">
+										<li><a href="#">Proceso de admisión</a></li>
+										<li><a href="#">Requisitos</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Servicios escolares
+									<ul class="sub-menu">
+										<li><a href="#">Inscripciones</a></li>
+										<li><a href="#">Boletas e historiales</a></li>
+                                        <li><a href="#">Emisión de certificados </a></li>
+                                        <li><a href="#">Constancias</a></li>
+                                        <li><a href="#">Prácticas</a></li>
+                                        <li><a href="#">Servicio social</a></li>
+                                        <li><a href="#">Titulación</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Transparencia
+									<ul class="sub-menu">
+										<li><a href="#">Rendición de cuentas</a></li>
+
+									</ul>
+								</li>
+
 							</ul>
 						</nav>
 						<div id="bar">
@@ -91,37 +124,17 @@
 			</div>
 		</header>
 		<!-- Header Close -->
+
+
 		<section class="page-content" id="course-page">
 			<div class="container">
 				<main class="course-detail">
-					<h2>learn web designing</h2>
-					<header>
-						<div class="course-box">
-							<i class="far fa-clock"></i>
-							<p>4 years</p>
-							<p>(5 hours/day)</p>
-						</div>
+					<h2>Técnico en programación</h2>
+                    <img src="images/programacion.png" alt="programacion">
 
-						<div class="course-box">
-							<i class="fas fa-chalkboard-teacher"></i>
-							<p>44 students/ class</p>
-						</div>
-
-						<div class="course-box">
-							<i class="fas fa-money-check-alt"></i>
-							<p>$ 5,000</p>
-							<p>(Books are included)</p>
-						</div>
-
-						<div class="course-box">
-							<h3>course syallabus</h3>
-							<button>download pdf</button>
-						</div>
-					</header>
 					<article>
 						<section class="course-intro">
-							<h3>Introduction</h3>
-
+							<h3>Descripción de la carrera</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

@@ -11,6 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="css/jquery.mmenu.all.css" />
 	<link rel="stylesheet" type="text/css" href="inner-page-style.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
 <!-- <body class="full-width"> -->
@@ -62,7 +63,7 @@
                                 <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
 
 
-								<li><a href="#">Inicio</a></li>
+								<li><a href="http://127.0.0.1:8000/">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
 										<li><a href="historia">Historia</a></li>
@@ -139,34 +140,102 @@
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
     -->
-		<div class="page-content" itemscope itemtype=" http://schema.org/Blog">
-			<div class="container">
-                <article class="page-article" itemprop="blogPost" style="text-align: justify;">
-                    <h1 style="font-size: 30px;" >VIDEO DE CONMEMORACION DEL 30 ANIVERSARIO ANIVERSARIO DEL CBTis 255 DE TARIMORO, GTO.</h1>
-					<!--<span><a href="#" itemprop="author">By Spyders Lab</a><a href="#">In Business</a><a href="#">Posted on 2nd December, 2018</a><a href="#">5 Comments</a></span>
-					<img itemprop="image" src="images/h2.jpg" alt="Image">-->
-                    <iframe
-                    src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcbtis255%2Fvideos%2F995713341541037%2F&show_text=false&width=560&t=0"
-                    width="765"
-                    height="514"
-                    style="border:none;overflow:hidden"
-                    scrolling="no"
-                    frameborder="0"
-                    allowfullscreen="true"
-                    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-                    allowFullScreen="true">
-                </iframe>
-                <p style="font-size: 25px; margin-bottom: 20px; text-align: justify;">
-                    Un homenaje a todos los que hicieron posible la existencia de nuestra Institución; y un reconocmiento para todas y cada una de las Generaciones de egresados, durante mas de 30 años.
-                    Oficina Estatal de la DGETI en el Estado de Guanajuato CBTis 255 ¡ LOBOS GRISES !
-                </p>
-					<div class="share-section">
-						<span>compartir vía<a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-f"></i></a></span>
-					</div>
+    <style>
+        body {
+          font-family: 'Arial', sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: #f8f8f8;
+          color: black;
+        }
 
-				</article>
-			</div>
-		
+        .container {
+          width: 80%;
+          margin: 0 auto;
+        }
+
+        .page-article {
+          text-align: justify;
+          background-color: #fff;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          margin-top: 30px;
+          padding: 20px;
+        }
+
+        .page-article h1 {
+          font-size: 30px;
+          margin-bottom: 20px;
+          color: black;
+        }
+
+        .video-container {
+          position: relative;
+          width: 100%;
+          overflow: hidden;
+          padding-top: 56.25%; /* Aspect ratio 16:9 */
+        }
+
+        .video-container iframe {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          border: none;
+        }
+
+        .page-article p {
+          font-size: 27px;
+          line-height: 1.6;
+          margin-bottom: 20px;
+        }
+
+        .share-section {
+          font-size: 20px;
+        }
+
+        .share-section a {
+          color: black;
+          margin-right: 15px;
+          text-decoration: none;
+        }
+
+        .share-section a:hover {
+          color: #007bff;
+        }
+      </style>
+    </head>
+    <body>
+
+      <div class="container">
+        <article class="page-article">
+          <h1>VIDEO DE CONMEMORACION DEL 30° ANIVERSARIO DEL CBTis 255 DE TARIMORO, GTO.</h1>
+          <div class="video-container">
+            <iframe
+              src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcbtis255%2Fvideos%2F995713341541037%2F&show_text=false&width=560&t=0"
+              width="765"
+              height="514"
+              style="border:none;overflow:hidden"
+              scrolling="no"
+              frameborder="0"
+              allowfullscreen="true"
+              allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+              allowFullScreen="true">
+            </iframe>
+          </div>
+          <p>
+            Un homenaje a todos los que hicieron posible la existencia de nuestra Institución;
+            y un reconocimiento para todas y cada una de las Generaciones de egresados, durante más de 30 años.
+            Oficina Estatal de la DGETI en el Estado de Guanajuato CBTis 255 ¡LOBOS GRISES!.
+          </p>
+          <div class="share-section">
+            Compartir vía
+            <a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-f"></i></a>
+          </div>
+        </article>
+      </div>
+
 		<footer class="page-footer">
 			<div class="footer-first-section">
 				<div class="container">

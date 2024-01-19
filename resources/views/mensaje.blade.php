@@ -11,6 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="css/jquery.mmenu.all.css" />
 	<link rel="stylesheet" type="text/css" href="inner-page-style.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
 <!-- <body class="full-width"> -->
@@ -70,9 +71,9 @@
 								</li>
 								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="programacion">Programación</a></li>
-										<li><a href="sym">Soporte y mantenimiento</a></li>
-                                        <li><a href="RH">Administración de recursos humanos</a></li>
+										<li><a href="programacion">Técnico en Programación</a></li>
+										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
 									</ul>
 								</li>
                                 <li class="menu-parent">Alumnos
@@ -135,27 +136,92 @@
 		</div> -->
 
 		<!-- Banner Close -->
-		<div class="page-content" itemscope itemtype=" http://schema.org/Blog">
-			<div class="container">
-				<article class="page-article" itemprop="blogPost">
-					<h1 itemprop="about">MENSAJE DEL DIRECTOR</h1>
 
-					<img itemprop="image" src="images/top-college-pic.jpg" alt="Image">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-					<div class="share-section">
-						<span>Share Via<a href=""><i class="fab fa-facebook-f"></i></a><a href=""><i class="fab fa-instagram"></i></a><a href=""><i class="fab fa-twitter"></i></a></span>
-					</div>
-				</article>
+        <style>
+            body {
+              font-family: 'Arial', sans-serif;
+              margin: 0;
+              padding: 0;
+              background-color: #f8f8f8;
+              color: #333;
+            }
 
-				
-			</div>
-		</div>
+            .container {
+              width: 80%;
+              margin: 0 auto;
+            }
+
+            .page-article {
+              background-color: #fff;
+              border-radius: 10px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+              margin-top: 30px;
+              padding: 20px;
+              text-align: center; /* Centra el contenido */
+            }
+
+            .page-article h1 {
+              font-size: 30px;
+              color: #333;
+              margin-bottom: 20px;
+            }
+
+            .page-article img {
+              width: 35%; /* Ajusta el ancho de la imagen */
+              height: auto;
+              border-radius: 10px;
+              margin-top: 20px;
+              display: block; /* Centra la imagen */
+              margin-left: auto;
+              margin-right: auto;
+            }
+
+            .page-article p {
+              font-size: 18px;
+              line-height: 1.6;
+              margin-top: 20px;
+              margin-bottom: 20px;
+            }
+
+            .share-section {
+              font-size: 20px;
+              margin-top: 20px;
+            }
+
+            .share-section a {
+              color: #333;
+              margin-right: 15px;
+              text-decoration: none;
+            }
+
+            .share-section a:hover {
+              color: #007bff;
+            }
+          </style>
+        </head>
+        <body>
+
+          <div class="container">
+            <article class="page-article">
+              <h1>MENSAJE DEL DIRECTOR</h1>
+              <img src="images/top-college-pic.jpg" alt="Image">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <div class="share-section">
+                Compartir vía
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+              </div>
+            </article>
+          </div>
 
 		<footer class="page-footer">
 			<div class="footer-first-section">

@@ -17,9 +17,10 @@ Route::get('/', function () {
 Route::get('/historia', function () {
     return view('historia');
 });
+
 Route::get('/programacion', function () {
     return view('programacion');
-});
+})->name('historia');
 Route::get('/sym', function () {
     return view('sym');
 });
@@ -35,3 +36,6 @@ Route::get('/mensaje', function () {
 Route::get('/mvv', function () {
     return view('mvv');
 });
+
+
+

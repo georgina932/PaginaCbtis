@@ -61,7 +61,7 @@
                                 <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
 
 
-								<li><a href="#">Inicio</a></li>
+								<li><a href="index">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
 										<li><a href="historia">Historia</a></li>
@@ -72,9 +72,9 @@
 								</li>
 								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="programacion">Programación</a></li>
-										<li><a href="sym">Soporte y mantenimiento</a></li>
-                                        <li><a href="RH">Administración de recursos humanos</a></li>
+										<li><a href="programacion">Técnico en Programación</a></li>
+										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
 									</ul>
 								</li>
                                 <li class="menu-parent">Alumnos
@@ -122,69 +122,125 @@
 				</div>
 			</div>
 		</header>
-		<!-- Header Close -->
-		<!--<div class="banner">
-			<div class="owl-four owl-carousel">
-				<img src="images/page-banner.jpg" alt="Image of Bannner">
-				<img src="images/page-banner2.jpg" alt="Image of Bannner">
-				<img src="images/page-banner3.jpg" alt="Image of Bannner">
-			</div>
-			<div class="container">
-				<h1>welcome to education pro</h1>
-				<h3>With our advance search feature you can now find the trips for you...</h3>
-			</div>
-			 <div id="owl-four-nav" class="owl-nav"></div>
-		Banner Close -->
 
-        <h1 style="font-size: 48px;  text-align: center;">Misión, Visión y Valores</h1>
-		<section class="testimonial-page">
-			<div class="container">
-				<main class="customer-review">
-					<div class="row">
 
-						<div class="rewiew-content">
 
-							<header>
-								<h3>Misión</h3>
-								<p>I am very happy with the service provided by this institute. Now i have got the job as web developer in one of the reputed company of Nepal. Especially trainers are the Professionals from the field of information technology. Thankyou Lab Theme. Professionals from the field of information technology. Thankyou Lab Theme.</p>
-							</header>
-							<footer>
-								<span><h4>Bibek Basnet</h4> <p>Web Developer</p></span>
-								<div class="rateYo"></div>
-							</footer>
-						</div>
-					</div>
+        <style>
+            body {
+              font-family: 'Arial', sans-serif;
+              margin: 0;
+              padding: 0;
+              background-color: #f8f8f8;
+              color: black;
+            }
 
-					<div class="row">
+            .container {
+              width: 80%;
+              margin: 0 auto;
+            }
 
-						<div class="rewiew-content">
-							<header>
-								<h3>Visión</h3>
-								<p>I am very happy with the service provided by this institute. Now i have got the job as web developer in one of the reputed company of Nepal. Especially trainers are the Professionals from the field of information technology. Thankyou lab theme. Professionals from the field of information technology. Thankyou lab theme.</p>
-							</header>
-							<footer>
-								<span><h4>Bibek Basnet</h4> <p>Web Developer</p></span>
-								<div class="rateYo"></div>
-							</footer>
-						</div>
-					</div>
+            h1 {
+              font-size: 48px;
+              text-align: center;
+              color: black;
+              margin-top: 50px;
+            }
 
-					<div class="row">
+            .section {
+              display: flex;
+              justify-content: space-around;
+              margin-top: 30px;
+              padding: 20px;
+              background-color: #fff;
+              border-radius: 10px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+              transition: transform 0.3s ease-in-out;
+            }
 
-						<div class="rewiew-content">
-							<header>
-								<h3>Valores</h3>
-								<p>I am very happy with the service provided by this institute. Now i have got the job as web developer in one of the reputed company of Nepal. Especially trainers are the Professionals from the field of information technology. Thankyou lab theme. Professionals from the field of information technology. Thankyou lab theme.</p>
-							</header>
-							<footer>
-								<span><h4>Bibek Basnet</h4> <p>Web Developer</p></span>
-								<div class="rateYo"></div>
-							</footer>
-						</div>
-					</div>
-                </main>
+            .section:hover {
+              transform: scale(1.05);
+            }
+
+            .section h3 {
+              font-size: 24px;
+              color: black;
+              margin-bottom: 15px;
+            }
+
+            .section p {
+              font-size: 20px;
+              line-height: 1.6;
+            }
+
+            .values-list {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            }
+
+            .values-list-item {
+            font-size: 20px;
+            line-height: 1.6;
+            position: relative;
+            padding-left: 20px;
+            }
+
+            .values-list-item::before {
+            content: '\2022'; /* Unicode character for a bullet point */
+            color: #333;
+            font-size: 24px;
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            }
+          </style>
+        </head>
+        <body>
+
+          <div class="container">
+            <h1>Misión, Visión y Valores</h1>
+
+            <div class="section">
+              <div>
+                <h3>Misión</h3>
+                <p>
+                  Impulsaremos el desarrollo armónico e integral de jóvenes de nivel medio superior,
+                  a través de un sistema educativo de calidad que promueve la creatividad e innovación;
+                  inspirado en los valores universales y en corresponsabilidad con la comunidad de la región.
+                </p>
+              </div>
             </div>
 
+            <div class="section">
+              <div>
+                <h3>Visión</h3>
+                <p>
+                  Ser la Institución Educativa de Nivel Medio Superior con más prestigio en su entorno,
+                  caracterizado por el compromiso de una mejora continua, donde tanto los alumnos como
+                  egresados den testimonio vivo por su formación humana y académica, que les permite
+                  lograr su proyecto de vida.
+                </p>
+              </div>
+            </div>
+
+            <div class="section" style="justify-content: flex-start;">
+              <div>
+                <h3>Valores</h3>
+                <p>
+                    Los valores que guiarán nuestras acciones:
+                </p>
+                <ul class="values-list">
+                  <li class="values-list-item">Justicia</li>
+                  <li class="values-list-item">Respeto</li>
+                  <li class="values-list-item">Solidaridad</li>
+                  <li class="values-list-item">Responsabilidad</li>
+                  <li class="values-list-item">Honestidad</li>
+                  <li class="values-list-item">Trabajo en equipo</li>
+                </ul>
+              </div>
+            </div>
+          </div>
 
 
 
