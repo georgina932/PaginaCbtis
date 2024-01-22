@@ -124,211 +124,138 @@
 			</div>
 		</header>
 		<!-- Header Close -->
+        <style>
+            body {
+                font-family: 'Arial', sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f8f8f8;
+                color: #333;
+            }
+
+            .container {
+                width: 90%; /* Cambié el ancho a 90% */
+                margin: 0 auto;
+            }
+
+            .course-detail {
+                background-color: #fff;
+                border-radius: 10px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                margin-top: 30px;
+                padding: 20px;
+                text-align: justify; /* Justificado */
+                line-height: 1.5; /* Interlineado de 1.5 */
+            }
+
+            .course-detail h2 {
+                font-size: 40px; /* Tamaño de letra un poco más grande */
+                color: black;
+                margin-bottom: 20px;
+            }
+            .course-detail p {
+                font-size: 18px; /* Tamaño de letra un poco más grande */
+                color: black;
+                margin-bottom: 20px;
+                text-align: justify; /* Justificado */
+                line-height: 1.5;
+            }
+
+            .course-detail img {
+                border-radius: 10px;
+                width: 70%; /* Imágenes un poco más pequeñas */
+                max-width: 100%;
+                height: auto;
+                margin-bottom: 20px;
+
+            }
+
+            .course-intro,
+            .course-objective {
+                text-align: left;
+                margin-bottom: 20px;
+            }
+
+            .course-objective img {
+                border-radius: 10px;
+                width: 70%; /* Imágenes un poco más pequeñas */
+                max-width: 100%;
+                height: auto;
+                margin-bottom: 20px;
+
+            }
+            .course-objective ul li{
+                font-size: 18px; /* Tamaño de letra un poco más grande */
+                color: black;
+        }
+
+            .button-container {
+                text-align: center;
+                margin-top: 20px;
+            }
+
+            .btn {
+                display: inline-block;
+                padding: 10px 20px;
+                font-size: 18px;
+                color: #fff; /* Color del texto del botón (blanco en este caso) */
+                background-color: #4f87c0;
+                text-decoration: none;
+                border-radius: 5px;
+            }
+
+            .btn:hover {
+                background-color: #93a0b0;
+            }
+        </style>
+
+<div class="container">
+    <main class="course-detail">
+        <h2>Técnico en programación</h2>
+        <img src="images/programacion.png" alt="programacion">
+
+        <article>
+            <section class="course-intro">
+                <h3>Descripción de la carrera</h3>
+                <p>La carrera de Técnico en Programación forma al estudiante para el desarrollo de software de sistemas informáticos, desarrollo de software
+                    con herramientas orientadas a la productividad, la administración de bases de datos en un sistema de información, el desarrollo de
+                    aplicaciones web y el desarrollo de aplicaciones móviles multiplataforma. Todas estas competencias posibilitan al egresado su
+                    incorporación al mundo laboral, continuar su trayectoria educativa o desarrollar procesos productivos independientes, de acuerdo con
+                    sus intereses profesionales o las necesidades en su entorno social, facilitando al egresado su incorporación al mundo laboral en: edición
+                    de software y edición de software integrada con la reproducción, servicios de diseño de sistemas de cómputo y servicios relacionados,
+                    escuelas de computación del sector privado y escuelas de computación del sector público, como: desarrolladores y analistas de software
+                    y multimedia, o bien en el desarrollo de procesos productivos independientes, de acuerdo con sus intereses profesionales y necesidades
+                    de su entorno social</p>
+            </section>
+
+            <section class="course-objective">
+                <h3>Mapa de competencias profesionales</h3>
+                <img src="images/perfilpro.jpg" alt="programacion">
+
+                <h3>Perfil de egreso</h3>
+                <p>La formación que ofrece la carrera de Técnico en Programación permite al egresado, a través de la articulación de saberes de diversos
+                    campos, realizar actividades dirigidas a diseñar, codificar e implementar software de sistemas informáticos; emplear frameworks y aplicar
+                    metodologías ágiles para el desarrollo de software; implementar bases de datos relacionales y no relacionales en un sistema de
+                    información; construir e implementar aplicaciones web; por último, diseñar e implementar aplicaciones móviles multiplataforma.
+                    </p>
+
+                <p>Durante el proceso de formación de los cinco módulos, la y el estudiante desarrollará o reforzará las siguientes competencias laborales:</p>
+                <ul>
+                    <li>Desarrollo de software de sistemas informáticos</li>
+                    <li>Desarrollo de software con herramientas orientadas a la productividad</li>
+                    <li>Administración de bases de datos en un sistema de información</li>
+                    <li>Desarrollo de aplicaciones web en un sistema de información</li>
+                    <li>Desarrollo de aplicaciones móviles multiplataforma</li>
+                </ul>
+            </section>
+            <div class="button-container">
+                <a class="btn" href="pdf/PROGRAMA_DE_ESTUDIOS_PROGRAMACION_2023.pdf" target="_blank" >Más información</a>
+            </div>
+        </article>
+    </main>
+</div>
 
 
-		<section class="page-content" id="course-page">
-			<div class="container">
-				<main class="course-detail">
-					<h2>Técnico en programación</h2>
-                    <img src="images/programacion.png" alt="programacion">
-
-					<article>
-						<section class="course-intro">
-							<h3>Descripción de la carrera</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						</section>
-
-						<section class="course-objective">
-							<h3>Objectives</h3>
-							<p>After this course student will be able to:</p>
-							<ul>
-								<li>Develop interactive Web pages using XHTML, HTML/DHTML & CSS</li>
-								<li>Create interactive forms that capture and validate user input using JavaScript</li>
-								<li>Create interactive forms that capture and validate user input using JavaScript</li>
-								<li>Control Java Applets, ActiveX Controls and other plug-ins</li>
-								<li>Control Java Applets, ActiveX Controls and other plug-ins</li>
-								<li>Enhance PHP programming skills to successfully build interactive, data-driven web applications</li>
-								<li>Develop interactive Web pages using XHTML, HTML/DHTML & CSS</li>
-								<li>Develop interactive Web pages using XHTML, HTML/DHTML & CSS</li>
-								<li>Control Java Applets, ActiveX Controls and other plug-ins</li>
-								<li>Create interactive forms that capture and validate user input using JavaScript</li>
-								<li>Develop interactive Web pages using XHTML, HTML/DHTML & CSS</li>
-							</ul>
-
-							<h3>Certification</h3>
-							<p>After this course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodc illum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-							<h3>Who can apply for this course?</h3>
-							<ul>
-								<li>+2 with science faculty</li>
-								<li>+2 with management faculty</li>
-								<li>+2 with science faculty</li>
-								<li>+2 with management faculty</li>
-							</ul>
-
-							<h3>Training Methodology</h3>
-							<ul>
-								<li>Weekly test</li>
-								<li>Digital Class</li>
-								<li>Field Visit and real project demonstration</li>
-								<li>+2 with managem</li>
-							</ul>
-						</section>
-					</article>
-				</main>
-				<aside>
-					<div class="reserve-course">
-						<h2>Reserve this course</h2>
-						<form>
-							<input type="text" placeholder="Your Name*" required>
-							<input type="email" name="userEmail" placeholder="Your Email Address..." required>
-							<input type="text" placeholder="Your Occupation*" required>
-							<input type="text" placeholder="Choose course*" required>
-							<textarea placeholder="Write your message"></textarea>
-							<input type="submit" value="Submit">
-						</form>
-					</div>
-					<!-- New Letter Ends -->
-					<div class="recent-post">
-						<h2>trainers</h2>
-						<div class="post">
-							<div class="post-wrap">
-								<div class="img-wrap">
-									<img src="images/recent-post-img.jpg" alt="Post Images">
-								</div>
-								<div class="post-content">
-									<a href="#">
-										<h3>Bibek Basnet</h3>
-										<p>Web Developer</p>
-									</a>
-									<span>
-										<a href="#"><i class="fab fa-facebook-f"></i></a>
-										<a href="#"><i class="fab fa-instagram"></i></a>
-										<a href="#"><i class="fab fa-twitter"></i></a>
-										<a href="#"><i class="fab fa-linkedin-in"></i></a>
-									</span>
-								</div>
-							</div>
-
-							<div class="post-wrap">
-								<div class="img-wrap">
-									<img src="images/recent-post-img.jpg" alt="Post Images">
-								</div>
-								<div class="post-content">
-									<a href="#">
-										<h3>Bibek Basnet</h3>
-										<p>Web Developer</p>
-									</a>
-									<span>
-										<a href="#"><i class="fab fa-facebook-f"></i></a>
-										<a href="#"><i class="fab fa-instagram"></i></a>
-										<a href="#"><i class="fab fa-twitter"></i></a>
-										<a href="#"><i class="fab fa-linkedin-in"></i></a>
-									</span>
-								</div>
-							</div>
-
-							<div class="post-wrap">
-								<div class="img-wrap">
-									<img src="images/recent-post-img.jpg" alt="Post Images">
-								</div>
-								<div class="post-content">
-									<a href="#">
-										<h3>Bibek Basnet</h3>
-										<p>Web Developer</p>
-									</a>
-									<span>
-										<a href="#"><i class="fab fa-facebook-f"></i></a>
-										<a href="#"><i class="fab fa-instagram"></i></a>
-										<a href="#"><i class="fab fa-twitter"></i></a>
-										<a href="#"><i class="fab fa-linkedin-in"></i></a>
-									</span>
-								</div>
-							</div>
-
-							<div class="post-wrap">
-								<div class="img-wrap">
-									<img src="images/recent-post-img.jpg" alt="Post Images">
-								</div>
-								<div class="post-content">
-									<a href="#">
-										<h3>Bibek Basnet</h3>
-										<p>Web Developer</p>
-									</a>
-									<span>
-										<a href="#"><i class="fab fa-facebook-f"></i></a>
-										<a href="#"><i class="fab fa-instagram"></i></a>
-										<a href="#"><i class="fab fa-twitter"></i></a>
-										<a href="#"><i class="fab fa-linkedin-in"></i></a>
-									</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Recent Post Close -->
-				</aside>
-			</div>
-		</section>
-		<section class="recent-course-single">
-			<div class="container">
-				<h2>recent courses</h2>
-				<div class="grid">
-					<div class="grid-item" data-category="business">
-						<div class="img-wrap">
-							<img src="images/course-pic.jpg" alt="courses picture">
-						</div>
-						<a href="#" class="learn-desining-banner-course">Learn Web Designing >>></a>
-						<div class="box-body">
-							<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-							<section>
-								<p><span>Duration:</span> 4 Years</p>
-								<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-								<p><span>Fee:</span> 4,00,000</p>
-							</section>
-						</div>
-					</div>
-
-					<div class="grid-item" data-category="business">
-						<div class="img-wrap">
-							<img src="images/course-pic.jpg" alt="courses picture">
-						</div>
-						<a href="#" class="learn-desining-banner-course">Learn Web Designing >>></a>
-						<div class="box-body">
-							<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-							<section>
-								<p><span>Duration:</span> 4 Years</p>
-								<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-								<p><span>Fee:</span> 4,00,000</p>
-							</section>
-						</div>
-					</div>
-
-					<div class="grid-item" data-category="design">
-						<div class="img-wrap">
-							<img src="images/course-pic.jpg" alt="courses picture">
-						</div>
-						<a href="#" class="learn-desining-banner-course">Learn Web Designing >>></a>
-						<div class="box-body">
-							<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-							<section>
-								<p><span>Duration:</span> 4 Years</p>
-								<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-								<p><span>Fee:</span> 4,00,000</p>
-							</section>
-						</div>
-					</div>
-			</div>
-		</section>
 
 		<section class="query-section">
 			<div class="container">
