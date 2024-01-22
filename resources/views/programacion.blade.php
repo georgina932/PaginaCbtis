@@ -82,7 +82,7 @@
 									<ul class="sub-menu">
 										<li><a href="#">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
-                                        <li><a href="#">Reglamento escolar</a></li>
+                                        <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
                                         <li><a href="#">clubes</a></li>
                                         <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
 									</ul>

@@ -82,7 +82,7 @@
 									<ul class="sub-menu">
 										<li><a href="#">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
-                                        <li><a href="#">Reglamento escolar</a></li>
+                                        <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
                                         <li><a href="#">clubes</a></li>
                                         <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
 									</ul>
@@ -136,30 +136,7 @@
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
-		<!-- <div class="banner">
-			<div class="owl-five owl-carousel owl-theme">
-	            <div class="item-video">
-            		<iframe width="100%" height="450" src="https://www.youtube.com/embed/ENVW3uZ3a-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            		</iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/0bfk90rWV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/ktvTqknDobU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-	            <div class="item-video">
-            		<iframe width="100%" height="450" src="https://www.youtube.com/embed/ENVW3uZ3a-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-            		</iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/0bfk90rWV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-	            <div class="item-video">
-	            	<iframe width="100%" height="450" src="https://www.youtube.com/embed/ktvTqknDobU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	            </div>
-          </div>
-		</div> -->
+
 		<!-- Banner Close -->
 		<div class="page-heading">
 			<div class="container">
@@ -285,7 +262,7 @@
 				<div class="featured-points">
 					<ul>
 						<li><i class="fas fa-book"></i> Direccción</li>
-						<li><i class="fas fa-money-check-alt"></i> Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico</li>
+						<li><i class="fas fa-map-marker-alt"></i> Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico</li>
 						<li><i class="fas fa-chalkboard-teacher"></i> Horario de atención: 7:00 am - 4 pm</li>
 						<li> <i class="fas fa-book"></i> teléfono</li>
 					</ul>
@@ -401,205 +378,11 @@
 				</div>
 			</div>
 		</section>
-		<!-- End of Events section -->
-		<section class="what-other-say">
-			<!-- <div class="container">
-				<div class="wrap-others-say" itemprop="review" itemscope itemtype="http://schema.org/ReviewAction">
-					<h1>what other say about us</h1>
-					<div id="carousel" class="flexslider">
-						<ul class="slides">
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="hidden">
-										<h3>Sagar Sapkota</h3>
-										<h4>UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-							<li class="img-wrap">
-								<figure itemprop="image">
-									<img src="images/review-big-img.jpg" alt="Person Image">
-									<figcaption class="fig">
-										<h3 class="hidden">Sagar Sapkota</h3>
-										<h4 class="hidden">UI Designer</h4>
-									</figcaption>
-								</figure>
-							</li>
-						</ul>
-					</div>
 
-					<div id="slider" class="flexslider">
-	  					<ul class="slides">
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">Amazing service and amazing team. Thank you!</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">Very Satisfaied with their service</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">Quick, efficient and meets your expectations</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">The website was according our imagination</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">Amazing service and amazing team. Thank you!</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">Very Satisfaied with their service</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">Quick, efficient and meets your expectations</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-						    <li>
-						    	<div class="testimonial-holder" itemprop="description">
-						    		<strong class="title">The website was according our imagination</strong>
-						    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tristique fer-<br/>mentum mauris, non tincidunt arcu venenatis vel. Nam et vehicula turpis. Ut nunc purus, mattis eu odio a, egestas facilisis nibh. Mauris magna diam, iaculis vitae sapien non, pharetra congue purus. Phasellus in odio purus.</p>
-						    		<div class="rateYo"></div>
-						    	</div>
-						    </li>
-	  					</ul>
-					</div>
-				</div>
-			</div> -->
-			<div class="container">
-				<h4 class="article-subtitle">Get to Know</h4>
-				<h2 class="head">what our customer say</h2>
-				<div class="three owl-carousel owl-theme">
-					<div class="customer-item" itemscope itemtype="http://schema.org/Rating">
-						<div class="border">
-							<div class="customer">
-								<figure>
-									<img class="customer-img" src="images/customer-img.jpg" alt="Person image">
-									<figcaption>
-										<span itemprop="author">SAGAR KUMAR SAPKOTA</span>
-										<div class="rateYo" itemprop="ratingValue"></div>
-									</figcaption>
-								</figure>
-							</div>
-							<div class="customer-review">
-								<p itemprop="description">
-									"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non"
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="customer-item" itemscope itemtype="http://schema.org/Rating">
-						<div class="border">
-							<div class="customer">
-								<figure>
-									<img class="customer-img" src="images/customer-img.jpg" alt="Person image">
-									<figcaption>
-										<span itemprop="author">SAGAR KUMAR SAPKOTA</span>
-										<div class="rateYo" itemprop="ratingValue"></div>
-									</figcaption>
-								</figure>
-							</div>
-							<div class="customer-review">
-								<p itemprop="description">
-									"22222Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non"
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End of Others talk -->
 		<section class="page-heading">
 			<div class="container">
-				<h2>latest news</h2>
+				<h2>Noticias destacadas
+                </h2>
 			</div>
 		</section>
 		<section class="latest-news">
@@ -607,7 +390,7 @@
 				<div class="owl-two owl-carousel">
 					<div class="news-wrap" itemprop="event">
 						<div class="news-img-wrap" itemprop="image">
-							<img src="images/latest-new-img.jpg" alt="Latest News Images">
+							<img src="images/proe.jpg" alt="Latest News Images">
 						</div>
 						<div class="news-detail" itemprop="description">
 							<a href=""><h1>Orientation Programme for new Students.</h1></a>
@@ -643,25 +426,19 @@
 				</div>
 			</div>
 		</section>
-		<!-- Latest News CLosed -->
-		<section class="query-section">
-			<div class="container">
-				<p>Any Queries? Ask us a question at<a href="tel:+9779813639131"><i class="fas fa-phone"></i> +977 9813639131</a></p>
-			</div>
-		</section>
-		<!-- End of Query Section -->
+
 		<footer class="page-footer" itemprop="footer" itemscope itemtype="http://schema.org/WPFooter">
 			<div class="footer-first-section">
 				<div class="container">
 					<div class="box-wrap" itemprop="about">
 						<header>
-							<h1>about</h1>
+							<h1>Información</h1>
 						</header>
 						<p>Edulab is a great start for and education. Personnel or oganization to start the online business with 1 click</p>
 
 						<h4><a href="tel:+9779813639131"><i class="fas fa-phone"></i> +977 9813639131</a></h4>
 						<h4><a href="mailto:info@educationpro.com"><i class="fas fa-envelope"></i> info@educationpro.com</a></h4>
-						<h4><a href=""><i class="fas fa-map-marker-alt"></i>Gongabu, Kathmandu, Nepal</a></h4>
+						<h4><a href=""><i class="fas fa-map-marker-alt"></i>Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico, 38700</a></h4>
 					</div>
 
 					<div class="box-wrap">
@@ -716,11 +493,8 @@
 				<div class="container">
 					<hr class="footer-line">
 					<ul class="social-list">
-						<li><a href=""><i class="fab fa-facebook-square"></i></a></li>
-						<li><a href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a href=""><i class="fab fa-skype"></i></a></li>
-						<li><a href=""><i class="fab fa-youtube"></i></a></li>
-						<li><a href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-square"></i></a></li>
+
 					</ul>
 					<hr class="footer-line">
 				</div>
@@ -732,43 +506,7 @@
 			</div>
 		</footer>
 
-		<!-- <nav id="menu">
-			<ul>
-				<li><a href="#">HOME</a></li>
-				<li>
-					<span>COURSES</span>
-					<ul>
-						<li><a href="#/courses/child">Child</a></li>
-						<li><a href="#/courses/child">Child</a></li>
-						<li>
-							<span>Child</span>
-							<ul>
-								<li><a href="#/courses/child/grandChild">Grand Child</a></li>
-								<li><a href="#/courses/child/grandChild">Grand Child</a></li>
-							</ul>
-						</li>
-					</ul>
-				</li>
-				<li>
-					<a href="#">gallery</a>
-					<ul>
-						<li><a href="#">Child</a></li>
-						<li><a href="#">Child</a></li>
-						<li><a href="#">Child</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="#">news</a>
-					<ul>
-						<li><a href="#">Child</a></li>
-						<li><a href="#">Child</a></li>
-						<li><a href="#">Child</a></li>
-					</ul>
-				</li>
-				<li><a href="#">about</a></li>
-				<li><a href="#">contact</a></li>
-			</ul>
-		</nav> -->
+
 
 	</div>
 	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>

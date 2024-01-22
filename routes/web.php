@@ -36,6 +36,8 @@ Route::get('/mensaje', function () {
 Route::get('/mvv', function () {
     return view('mvv');
 });
-
+Route::get('/reglamento', function () {
+    return view('reglamento');
+});
 
 
