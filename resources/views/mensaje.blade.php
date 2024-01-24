@@ -78,7 +78,7 @@
 								</li>
                                 <li class="menu-parent">Alumnos
 									<ul class="sub-menu">
-										<li><a href="#">Becas</a></li>
+										<li><a href="becas">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
                                         <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
                                         <li><a href="#">clubes</a></li>
@@ -104,7 +104,7 @@
 								</li>
                                 <li class="menu-parent">Transparencia
 									<ul class="sub-menu">
-										<li><a href="#">Rendición de cuentas</a></li>
+										<li><a href="transparencia">Rendición de cuentas</a></li>
 
 									</ul>
 								</li>

@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>sym</title>
+	<title>Transparencia</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
 	<link rel="stylesheet" type="text/css" href="css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="css/lightbox.css">
-	<link rel="stylesheet" type="text/css" href="css/flexslider.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.css">
-	<link rel="stylesheet" type="text/css" href="css/jquery.rateyo.css"/>
 	<link rel="stylesheet" type="text/css" href="css/jquery.mmenu.all.css" />
 	<link rel="stylesheet" type="text/css" href="inner-page-style.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
 <!-- <body class="full-width"> -->
@@ -62,7 +60,7 @@
                                 <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
 
 
-								<li><a href="index">Inicio</a></li>
+								<li><a href="#">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
 										<li><a href="historia">Historia</a></li>
@@ -124,145 +122,125 @@
 			</div>
 		</header>
 		<!-- Header Close -->
+		<!--<div class="banner">
+			<div class="owl-four owl-carousel">
+				<img src="images/page-banner.jpg" alt="Image of Bannner">
+				<img src="images/page-banner2.jpg" alt="Image of Bannner">
+				<img src="images/page-banner3.jpg" alt="Image of Bannner">
+			</div>
+			<div class="container">
+				<h1>welcome to education pro</h1>
+				<h3>With our advance search feature you can now find the trips for you...</h3>
+			</div>
+			 <div id="owl-four-nav" class="owl-nav"></div>
+		</div> -->
+
+		<!-- Banner Close -->
+
+
         <style>
             body {
-                font-family: 'Arial', sans-serif;
-                margin: 0;
-                padding: 0;
-                background-color: #f8f8f8;
-                color: #333;
+              font-family: 'Arial', sans-serif;
+              margin: 0;
+              padding: 0;
+              background-color: #f8f8f8;
+              color: #333;
             }
 
             .container {
-                width: 90%; /* Cambié el ancho a 90% */
-                margin: 0 auto;
+              width: 80%;
+              margin: 0 auto;
             }
 
-            .course-detail {
-                background-color: #fff;
-                border-radius: 10px;
-                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-                margin-top: 30px;
-                padding: 20px;
-                text-align: justify; /* Justificado */
-                line-height: 1.5; /* Interlineado de 1.5 */
+            .page-article {
+              background-color: #fff;
+              border-radius: 10px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+              margin-top: 30px;
+              padding: 20px;
+              text-align: center; /* Centra el contenido */
             }
 
-            .course-detail h2 {
-                font-size: 40px; /* Tamaño de letra un poco más grande */
-                color: black;
-                margin-bottom: 20px;
-            }
-            .course-detail p {
-                font-size: 18px; /* Tamaño de letra un poco más grande */
-                color: black;
-                margin-bottom: 20px;
-                text-align: justify; /* Justificado */
-                line-height: 1.5;
+            .page-article h1 {
+              font-size: 30px;
+              color: #333;
+              margin-bottom: 20px;
             }
 
-            .course-detail img {
-                border-radius: 10px;
-                width: 70%; /* Imágenes un poco más pequeñas */
-                max-width: 100%;
-                height: auto;
-                margin-bottom: 20px;
-
+            .page-article img {
+              width: 49%; /* Ajusta el ancho de la imagen */
+              height: auto;
+              border-radius: 10px;
+              margin-top: 20px;
+              display: block; /* Centra la imagen */
+              margin-left: auto;
+              margin-right: auto;
             }
 
-            .course-intro,
-            .course-objective {
-                text-align: left;
-                margin-bottom: 20px;
+            .page-article p {
+              font-size: 20px;
+              line-height: 1.6;
+              margin-top: 20px;
+              margin-bottom: 20px;
+              text-align: justify;
+              color: black
             }
 
-            .course-objective img {
-                border-radius: 10px;
-                width: 70%; /* Imágenes un poco más pequeñas */
-                max-width: 100%;
-                height: auto;
-                margin-bottom: 20px;
-
-            }
-            .course-objective ul li{
-                font-size: 18px; /* Tamaño de letra un poco más grande */
-                color: black;
-        }
-
-            .button-container {
-                text-align: center;
-                margin-top: 20px;
+            .share-section {
+              font-size: 20px;
+              margin-top: 20px;
             }
 
-            .btn {
-                display: inline-block;
-                padding: 10px 20px;
-                font-size: 18px;
-                color: #fff; /* Color del texto del botón (blanco en este caso) */
-                background-color: #4f87c0;
-                text-decoration: none;
-                border-radius: 5px;
+            .share-section a {
+              color: #333;
+              margin-right: 15px;
+              text-decoration: none;
             }
 
-            .btn:hover {
-                background-color: #93a0b0;
+            .share-section a:hover {
+              color: #007bff;
             }
-        </style>
+            .image-container {
+                display: flex;
+                justify-content: space-between; /* Ajusta el espacio entre las imágenes */
+            }
 
-<div class="container">
-    <main class="course-detail">
-        <h2>Técnico en Soporte y mantenimiento</h2>
-        <img src="images/soporte.jpg" alt="programacion">
+            .article-image {
+                width: 90%; /* Ajusta el ancho de las imágenes (puedes ajustar según tus necesidades) */
+                height: auto; /* Mantiene la proporción original de la imagen */
+            }
+          </style>
+        </head>
+        <body>
 
-        <article>
-            <section class="course-intro">
-                <h3>Descripción de la carrera</h3>
-                <p>
-                    En el contexto regional y nacional, la formación de Técnicos en Soporte y Mantenimiento de Equipos de Cómputo es relevante porque permiten al
-                    estudiante egresado ingresar al mundo laboral que se demanda en la actualidad. La carrera de Técnico en Soporte y Mantenimiento de Equipos
-                    de Cómputo desarrolla en el estudiante las siguientes competencias profesionales: realizar operaciones de ensamble, configuración e instalación
-                    de hardware y software en el equipo de cómputo; dar mantenimiento a hardware y software en el equipo de cómputo; proporcionar soporte técnico
-                    presencial o a distancia en software de aplicación y hardware; diseñar redes de computadoras; e, instalar y operar redes de computadoras,
-                    apegándose a estándares oficiales y códigos de ética del profesional técnico.
+            <div class="container">
+                <article class="page-article">
+                  <h1>Jornada de transparencia y rendición de cuentas del ciclo 2022-2023</h1>
 
-                </p>
-            </section>
+                  <div class="image-container">
+                    <img class="article-image" src="images/transpa.jpg" alt="Image">
+                    <img class="article-image" src="images/transpa2.jpg" alt="Image">
+                  </div>
 
-            <section class="course-objective">
-                <h3>Mapa de competencias profesionales</h3>
-                <img src="images/perfilsym.jpg" alt="sym">
+                  <p>
+                    Se realizó hoy por parte de nuestro Director, el ingeniero Ricardo Corona Aguado, el Informe de actividades dentro del marco de la Jornada de Transparencia y Rendición de cuentas del ciclo 2022-2023.
+                    En su informe el director expuso, a los presentes y observadores por parte de la DGETI, el ingeniero Gabino Cruz Mata, Responsable de Planeación y Evaluación de la DGETI en el Estado de Guanajuato, así como la ingeniero Mónica Alvarado Barrera directora del CETis 89 de Salvatierra, las actividades que se han desarrollado dentro del plantel con toda la comunidad estudiantil que orgullosamente forma parte del CBTis 255.
+                    Destacamos y agrademos la distinguida presencia de nuestro Supervisor, el Ing. Wlfrido Contreras Camarena.
+                    En este ejercicio de transparencia queda claro que en el CBTis 255 trabajamos juntos por el bien de nuestros estudiantes y de la sociedad de Tarimoro, Gto.
+                    Nuestro Director hizo énfasis en que el trabajo colaborativo es lo que ha llevado a los buenos resultados del plantel y que aún hay mucho por hacer.
+                    CBTis 255
+                    ¡ L O B O S    G R I S E S !
+                  </p>
 
-                <h3>Perfil de egreso</h3>
-                <p>
-                    La carrera de Técnico en Soporte y mantenimiento de equipo de cómputo permite a los estudiantes, a lo largo del bachillerato, la adquisición de
-                    competencias desde distintos ámbitos que promueven la formación integral, sustentada en las genéricas, disciplinares y profesionales,
-                    complementadas con las de productividad y empleabilidad, y las habilidades socioemocionales que influyen en la personalidad
-                </p>
+                  <div class="share-section">
+                    Compartir vía
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                  </div>
+                </article>
+              </div>
 
-                <p>Durante el proceso de formación de los cinco módulos, la y el estudiante desarrollará o reforzará las siguientes competencias laborales:</p>
-                <ul>
-                    <li>Realizar operaciones de ensamble, configuración e instalación de hardware y software en el equipo de cómputo</li>
-                    <li>Dar mantenimiento a hardware y software en el equipo de cómputo</li>
-                    <li>Proporcionar soporte técnico presencial o a distancia en software de aplicación y hardware</li>
-                    <li>Diseñar redes de computadoras; e, instalar y operar redes de computadoras.</li>
-
-                </ul>
-            </section>
-            <div class="button-container">
-                <a class="btn" href="pdf/Soporte_y_Mantenimiento_de_Equipo_de_Computo.pdf" target="_blank" >Más información</a>
-            </div>
-        </article>
-    </main>
-</div>
-
-
-
-		<section class="query-section">
-			<div class="container">
-				<p>Any Queries? Ask us a question at<a href="tel:+9779813639131"><i class="fas fa-phone"></i> +977 9813639131</a></p>
-			</div>
-		</section>
-		<!-- End of Query Section -->
 		<footer class="page-footer">
 			<div class="footer-first-section">
 				<div class="container">

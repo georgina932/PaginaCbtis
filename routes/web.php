@@ -39,5 +39,10 @@ Route::get('/mvv', function () {
 Route::get('/reglamento', function () {
     return view('reglamento');
 });
-
+Route::get('/transparencia', function () {
+    return view('transparencia');
+});
+Route::get('/becas', function () {
+    return view('becas');
+});
 

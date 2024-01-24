@@ -80,7 +80,7 @@
 								</li>
                                 <li class="menu-parent">Alumnos
 									<ul class="sub-menu">
-										<li><a href="#">Becas</a></li>
+										<li><a href="becas">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
                                         <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
                                         <li><a href="#">clubes</a></li>
@@ -106,7 +106,7 @@
 								</li>
                                 <li class="menu-parent">Transparencia
 									<ul class="sub-menu">
-										<li><a href="#">Rendición de cuentas</a></li>
+										<li><a href="transparencia">Rendición de cuentas</a></li>
 
 									</ul>
 								</li>
@@ -393,10 +393,12 @@
 							<img src="images/proe.jpg" alt="Latest News Images">
 						</div>
 						<div class="news-detail" itemprop="description">
-							<a href=""><h1>Orientation Programme for new Students.</h1></a>
-							<h2 itemprop="startDate">By Admin | 20 Dec. 2018</h2>
+							<a href=""><h1>PROYECTO DE EMPRENDIMIENTO GANADOR</h1></a>
+							<h2 itemprop="startDate">CBTis | 04 Dic. 2023</h2>
 
-							<p>Orientation Programme for new sffs Students. Orientatin Programmes for new Students.. Orientatin Programmes for new Students</p>
+							<p>
+								Obtiene CBTis 255 uno de los primeros 5 lugares en el concurso “Premio Promotora Social México al Emprendimiento Juvenil”
+							</p>
 						</div>
 					</div>
 
