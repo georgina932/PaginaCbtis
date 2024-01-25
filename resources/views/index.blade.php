@@ -87,7 +87,7 @@
                                             <li class="menu-parent">Club
                                                 <ul class="sub-menu">
                                                     <li><a href="clubdeportivo">Deportivo</a></li>
-                                                    <li><a href="">Cultural</a></li>
+                                                    <li><a href="clubcultural">Cultural</a></li>
                                                 </ul>
                                             </li>
 

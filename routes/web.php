@@ -48,4 +48,7 @@ Route::get('/becas', function () {
 Route::get('/clubdeportivo', function () {
     return view('clubdeportivo');
 });
+Route::get('/clubcultural', function () {
+    return view('clubcultural');
+});
 

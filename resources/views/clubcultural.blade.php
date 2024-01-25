@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>historia</title>
+	<title>Cultural</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
@@ -20,9 +20,7 @@
 			<div class="top-header">
 				<div class="container">
 					<div class="top-header-left">
-
 						<div class="top-header-block">
-
 							<a href="mailto:info@educationpro.com"><i class="fas fa-envelope"></i> info@educationpro.com</a>
 						</div>
 						<div class="top-header-block">
@@ -41,7 +39,6 @@
 							</ul>
 						</div>
 						<div class="login-block">
-
 							<a href="">Login /</a>
 							<a href="">Register</a>
 						</div>
@@ -63,7 +60,7 @@
                                 <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
 
 
-								<li><a href="http://127.0.0.1:8000/">Inicio</a></li>
+								<li><a href="#">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
 										<li><a href="historia">Historia</a></li>
@@ -74,9 +71,9 @@
 								</li>
 								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="programacion">Programación</a></li>
-										<li><a href="sym">Soporte y mantenimiento</a></li>
-                                        <li><a href="RH">Administración de recursos humanos</a></li>
+										<li><a href="programacion">Técnico en Programación</a></li>
+										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
 									</ul>
 								</li>
                                 <li class="menu-parent">Alumnos
@@ -132,116 +129,150 @@
 			</div>
 		</header>
 		<!-- Header Close -->
-
-
 		<!--<div class="banner">
 			<div class="owl-four owl-carousel">
-				<img src="images/historia.jpg" alt="Image of Bannner">
+				<img src="images/page-banner.jpg" alt="Image of Bannner">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
 				<img src="images/page-banner3.jpg" alt="Image of Bannner">
 			</div>
 			<div class="container">
-				<h1>Historia del plantel</h1>
-				<h3></h3>
+				<h1>welcome to education pro</h1>
+				<h3>With our advance search feature you can now find the trips for you...</h3>
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
-		</div>
-    -->
-    <style>
-        body {
-          font-family: 'Arial', sans-serif;
-          margin: 0;
-          padding: 0;
-          background-color: #f8f8f8;
-          color: black;
-        }
+		</div> -->
 
-        .container {
-          width: 80%;
-          margin: 0 auto;
-        }
+		<!-- Banner Close -->
 
-        .page-article {
-          text-align: justify;
-          background-color: #fff;
-          border-radius: 10px;
-          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-          margin-top: 30px;
-          padding: 20px;
-        }
 
-        .page-article h1 {
-          font-size: 30px;
-          margin-bottom: 20px;
-          color: black;
-        }
+        <style>
+            body {
+              font-family: 'Arial', sans-serif;
+              margin: 0;
+              padding: 0;
+              background-color: #f8f8f8;
+              color: black;
+            }
 
-        .video-container {
-          position: relative;
-          width: 100%;
-          overflow: hidden;
-          padding-top: 56.25%; /* Aspect ratio 16:9 */
-        }
+            .container {
+              width: 80%;
+              margin: 0 auto;
+            }
 
-        .video-container iframe {
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;
-          border: none;
-        }
+            h1 {
+              font-size: 48px;
+              text-align: center;
+              color: black;
+              margin-top: 50px;
+            }
 
-        .page-article p {
-          font-size: 27px;
-          line-height: 1.6;
-          margin-bottom: 20px;
-        }
+            .section {
+              display: flex;
+              justify-content: space-around;
+              margin-top: 30px;
+              padding: 20px;
+              background-color: #fff;
+              border-radius: 10px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+              transition: transform 0.3s ease-in-out;
+            }
 
-        .share-section {
-          font-size: 20px;
-        }
+            .section:hover {
+              transform: scale(1.05);
+            }
 
-        .share-section a {
-          color: black;
-          margin-right: 15px;
-          text-decoration: none;
-        }
+            .section h3 {
+              font-size: 24px;
+              color: black;
+              margin-bottom: 15px;
+            }
 
-        .share-section a:hover {
-          color: #007bff;
-        }
-      </style>
-    </head>
-    <body>
+            .section p {
+              font-size: 20px;
+              line-height: 1.6;
+            }
 
-      <div class="container">
-        <article class="page-article">
-          <h1>VIDEO DE CONMEMORACION DEL 30° ANIVERSARIO DEL CBTis 255 DE TARIMORO, GTO.</h1>
-          <div class="video-container">
-            <iframe
-              src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcbtis255%2Fvideos%2F995713341541037%2F&show_text=false&width=560&t=0"
-              width="765"
-              height="514"
-              style="border:none;overflow:hidden"
-              scrolling="no"
-              frameborder="0"
-              allowfullscreen="true"
-              allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-              allowFullScreen="true">
-            </iframe>
+            .values-list {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            }
+
+            .values-list-item {
+            font-size: 20px;
+            line-height: 1.6;
+            position: relative;
+            padding-left: 20px;
+            }
+
+            .values-list-item::before {
+            content: '\2022'; /* Unicode character for a bullet point */
+            color: #333;
+            font-size: 24px;
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            }
+          </style>
+        </head>
+        <body>
+
+          <div class="container">
+            <h1>CLUB CULTURAL</h1>
+
+            <div class="section">
+              <div>
+                <h3>Futbol</h3>
+                <p style="text-align: justify">
+                    <img src="images/futbol.jpg" alt="Image" > <br>
+                    Un espacio vibrante donde la pasión por el deporte se une con el compromiso académico. Aquí, los estudiantes encuentran más que un equipo;
+                    encuentran una familia unida por el amor al fútbol
+                    y el deseo de representar con orgullo a nuestra institución.<br>
+                    Nuestra Identidad:
+                        <ul class="values-list" >
+                            <li class="values-list-item">🏆 Espíritu Competitivo:  Fomentamos la competitividad sana y el deseo de superación</li>
+                            <li class="values-list-item">⚽ Desarrollo Integral: No solo buscamos la excelencia deportiva, sino también el crecimiento personal y académico </li>
+                            <li class="values-list-item">🌐 Inclusividad: Todos son bienvenidos, independientemente de su nivel de habilidad</li>
+                      </ul>
+                    <p style="text-align: justify; ">Loque ofrecemos:
+                        <ul class="values-list">
+                            <li class="values-list-item">🚀 Entrenamientos: Sesiones de entrenamiento intensivas que desarrollan habilidades</li>
+                            <li class="values-list-item">🤝 Espíritu de Equipo: Fomentamos la camaradería y el compañerismo </li>
+                            <li class="values-list-item">🏟️ Participación en Torneos: Representamos al CBTIS 255 en competiciones locales e intercolegiales</li>
+
+                      </ul>
+                    </p>
+                    </p>
+              </div>
+            </div>
+
+            <div class="section">
+                <div>
+                  <h3>Voleibol</h3>
+                  <p style="text-align: justify">
+                      <img src="images/voli.jpg" alt="Image" > <br>
+                      ¡Bienvenido al Club Deportivo de Voleibol del CBTIS 255, donde la pasión por el juego se combina con la excelencia académica! Nuestro club está dedicado a fomentar el talento,
+                      la camaradería y el desarrollo integral de nuestros estudiantes-atletas.<br>
+                      Nuestra Identidad:
+                          <ul class="values-list" >
+                              <li class="values-list-item">🏐 Espíritu Competitivo: Promovemos la competencia leal y el deseo constante de mejorar</li>
+                              <li class="values-list-item">🤝 Trabajo en Equipo: Creemos en la fuerza del trabajo en equipo </li>
+                              <li class="values-list-item">🌱 Desarrollo Personal: Más allá del rendimiento deportivo, nos comprometemos a cultivar habilidades </li>
+                        </ul>
+                      <p style="text-align: justify; ">Loque ofrecemos:
+                          <ul class="values-list">
+                              <li class="values-list-item">🏆 Participación en Torneos: Representamos al CBTIS 255 en torneos locales e intercolegiales</li>
+                              <li class="values-list-item">📘 Énfasis Académico: Valoramos el rendimiento académico y alentamos a nuestros jugadores </li>
+                              <li class="values-list-item">🤸 Desarrollo Personal: Promovemos el crecimiento personal y la autoconfianza, </li>
+
+                        </ul>
+                      </p>
+                      </p>
+                </div>
+              </div>
+
           </div>
-          <p>
-            Un homenaje a todos los que hicieron posible la existencia de nuestra Institución;
-            y un reconocimiento para todas y cada una de las Generaciones de egresados, durante más de 30 años.
-            Oficina Estatal de la DGETI en el Estado de Guanajuato CBTis 255 ¡LOBOS GRISES!.
-          </p>
-          <div class="share-section">
-            Compartir vía
-            <a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-f"></i></a>
-          </div>
-        </article>
-      </div>
 
 		<footer class="page-footer">
 			<div class="footer-first-section">
