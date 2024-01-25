@@ -150,53 +150,56 @@
 					<div class="owl-one owl-carousel">
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap" itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Club deportivo >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name">Club deportivo </a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    Este club proporciona un ambiente donde los jugadores pueden entrenar,
+                                    competir y desarrollar sus habilidades  ademas desempeñan un papel importante en la
+                                    construcción de comunidades al brindar oportunidades para la participación de aficionados,
+                                    eventos sociales y programas de responsabilidad social
+                                </p>
+
+
 							</div>
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course2-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Club cultural >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name">Club cultural</a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    El propósito del club cultural es crear un ambiente en el que los individuos puedan explorar,
+                                    aprender y disfrutar de diversas expresiones culturales.Además de proporcionar un espacio para la expresión y apreciación cultural,
+                                    los clubes culturales fomentan la construcción de comunidades
+                                    al reunir a personas con intereses similares.
+                                </p>
+
 							</div>
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course1-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Proyectos >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name">Ferias de proyectos</a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    La feria proporciona un espacio donde los participantes pueden mostrar sus logros, innovaciones o descubrimientos en diversos campos,
+                                    desde ciencia y tecnología hasta arte y emprendimiento.Además se fomenta la colaboración, la creatividad y
+                                    el intercambio de conocimientos entre los participantes y el público,
+                                </p>
+
 							</div>
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/visita.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">visitas >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name">visitas </a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    Este tipo de visitas no solo enriquece la experiencia educativa, sino que también fomenta el desarrollo de habilidades
+                                    sociales, culturales y de comunicación. Además, contribuye a la construcción de
+                                    una comunidad educativa más amplia y conectada, donde se comparten ideas y se promueve la colaboración entre instituciones.
+                                </p>
+
 							</div>
 						</div>
 					</div>
@@ -216,40 +219,39 @@
 					<div class="owl-one owl-carousel">
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap" itemprop="image"><img src="images/face.jpg" alt="courses picture"></div>
-								<a href="https://www.facebook.com/cbtis255/about?locale=es_LA" class="learn-desining-banner" itemprop="name">Facebook >>></a>
+								<a href="https://www.facebook.com/cbtis255/about?locale=es_LA" class="learn-desining-banner" itemprop="name">Facebook </a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    ¡Bienvenido a la página oficial del CBTIS 255! Somos una institución comprometida con la formación académica y
+                                    técnica de nuestros estudiantes. Aquí encontrarás noticias, eventos, logros
+                                    estudiantiles y actualizaciones importantes de nuestra comunidad educativa.
+                                </p>
+
 							</div>
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/insta.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Instalaciones >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name">Instalaciones </a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    Las instalaciones del CBTIS 255 están diseñadas para ofrecer un entorno educativo óptimo, brindando a los estudiantes
+                                    las herramientas y recursos necesarios para su formación técnica e industrial.
+                                    integrando aulas modernas, laboratorios especializados y espacios adicionales
+
 							</div>
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name"> calendario escolar >>></a>
+								<a href="#" class="learn-desining-banner" itemprop="name"> calendario escolar </a>
 							<div class="box-body" itemprop="description">
-								<p>Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
-								<section itemprop="time">
-									<p><span>Duration:</span> 4 Years</p>
-									<p><span>Class Time:</span> 6am-12am / 11am-5pm</p>
-									<p><span>Fee:</span> 4,00,000</p>
-								</section>
+								<p style="text-align: justify; color: black; line-height: 1.6;">
+                                    Es una herramienta crucial que organiza y planifica las actividades académicas y administrativas a lo largo del año.
+                                     Este calendario proporciona una guía estructurada para estudiantes,
+                                    profesores y personal administrativo.El calendario escolar se comunica de manera transparente
+                                </p>
+
 							</div>
 						</div>
 					</div>
@@ -269,15 +271,45 @@
 				</div>
 				<div class="whyus-wrap">
 					<h1>¿Donde nos ubicamos?</h1>
-					<p itemprop="description">Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsumLorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsumLorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsumLorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsumLorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsumLorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum Lorem Ipsum lorem ipsum</p>
+					<p itemprop="description">
+                        <style>
+                            #map {
+                                height: 30px; /* ajusta la altura según tus necesidades */
+                                width: 100%; /* ajusta el ancho según tus necesidades */
+                            }
+                        </style>
 
-					<a href="#" class="read-more-btn">read more</a>
+                            <div id="map"></div>
+
+                            <script>
+                                function initMap() {
+                                    var myLatLng = {lat:  -100.76727243429015, lng: 20.291361433595807};  // coordenadas iniciales
+                                    var map = new google.maps.Map(document.getElementById('map'), {
+                                        center: myLatLng,
+                                        zoom: 8
+                                    });
+
+                                    var marker = new google.maps.Marker({
+                                        position: myLatLng,
+                                        map: map,
+                                        title: '¡Hola, mundo!'
+                                    });
+                                }
+                            </script>
+
+                        <section class="map-section">
+                            <iframe
+                            src=
+                            "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.573308789955720.291270866411715, -100.76729389196073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1920ba20a0d5%3A0x3ea7459e8ab1371f!2sSpyders+Lab!5e0!3m2!1sen!2snp!4v1547705422844" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </section>
+
+                    </p>
 				</div>
 			</div>
 		</section>
 		<!-- Closed WhyUs section -->
-		<section class="page-heading">
-			<div class="container">
+		<section class="page-heading" >
+			<div class="container" >
 				<h2>galeria</h2>
 			</div>
 		</section>
@@ -346,7 +378,7 @@
 		<!-- End of gallery Images -->
 		<section class="page-heading">
 			<div class="container">
-				<h2>upcomming events</h2>
+				<h2>Eventos</h2>
 			</div>
 		</section>
 		<section class="events-section" itemprop="event" itemscope itemtype=" http://schema.org/Event">
@@ -356,24 +388,28 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3 itemprop="name">Orientation Programme for new Students.</h3></a>
-						<p itemprop="description">Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
-
-						<h5 itemprop="startDate"><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5 itemprop="location"><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+						<a href=""><h3 itemprop="name">TALLER DE ARDUINO</h3></a>
+						<p itemprop="description" style="text-align: justify; color: black;">
+                            La muestra, ofreció una visión fascinante de las aplicaciones prácticas de esta tecnología,
+                            misma que es base para la comprensión de la mecatrónica y de la programación.
+                        </p>
+						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> José Refugio Pérez Contreras</h5>
 					</div>
 				</div>
 
 				<div class="event-wrap">
 					<div class="img-wrap" itemprop="image">
-						<img src="images/events.jpg" alt="event images">
+						<img src="images/events2.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3 itemprop="name">Orientation Programme for new Students.</h3></a>
-						<p itemprop="description">Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
+						<a href=""><h3 itemprop="name">EXPERIMENTOS DE FISICA.</h3></a>
+						<p itemprop="description" style="text-align: justify; color: black;">
+                            Alumnas y alumnos del Grupo de 5B de recursos humanos, presentaron el día de hoy,
+                            diversos experimentos para demostrar las Leyes de Física.
+                        </p>
 
-						<h5 itemprop="startDate"><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5 itemprop="location"><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+
+						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> José Luis Abonce Guerrero</h5>
 					</div>
 				</div>
 			</div>
@@ -394,10 +430,11 @@
 						</div>
 						<div class="news-detail" itemprop="description">
 							<a href=""><h1>PROYECTO DE EMPRENDIMIENTO GANADOR</h1></a>
-							<h2 itemprop="startDate">CBTis | 04 Dic. 2023</h2>
+							<h2 itemprop="startDate">CBTis 255| 04 Dic. 2023</h2>
 
-							<p>
+							<p style="color: black" >
 								Obtiene CBTis 255 uno de los primeros 5 lugares en el concurso “Premio Promotora Social México al Emprendimiento Juvenil”
+                                impulsado y organizado por la Fundación NEMI a nivel Nacional
 							</p>
 						</div>
 					</div>
@@ -407,22 +444,29 @@
 							<img src="images/latest-new-img.jpg" alt="Latest News Images">
 						</div>
 						<div class="news-detail" itemprop="description">
-							<a href=""><h1>Orientation Programme for new Students.</h1></a>
-							<h2 itemprop="startDate">By Admin | 20 Dec. 2018</h2>
+							<a href=""><h1>CONVENIO DE PASE DIRECTO CON EL TEC DE CELAYA</h1></a>
+							<h2 itemprop="startDate">CBTis 255 | 10 Enero. 2014</h2>
 
-							<p>Orientation Programme for new sffs Students. Orientatin Programmes for new Students.. Orientatin Programmes for new Students</p>
+							<p style="color: black" >
+                                El Director Mtro. Ricardo Corona Aguado y el Jefe de Vinculación Mtro. Enrique Méndez Patiño, asistieron a la firma  de Convenios
+                                para el Pase Directo de los alumnos de alto promedio
+
+                            </p>
 						</div>
 					</div>
 
 					<div class="news-wrap" itemprop="event">
 						<div class="news-img-wrap" itemprop="image">
-							<img src="images/latest-new-img.jpg" alt="Latest News Images">
+							<img src="images/latest2.jpg" alt="Latest News Images">
 						</div>
 						<div class="news-detail" itemprop="description">
-							<a href=""><h1>Orientation Programme for new Students.</h1></a>
-							<h2 itemprop="startDate">By Admin | 20 Dec. 2018</h2>
+							<a href=""><h1>PRIMERA JORNADA DE VISITA DE SUPERVISION</h1></a>
+							<h2 itemprop="startDate">CBTis 255 | 17 Enero. 2024</h2>
 
-							<p>Orientation Programme for new sffs Students. Orientatin Programmes for new Students.. Orientatin Programmes for new Students</p>
+							<p style="color: black">
+                                Recibimos la visita de nuestro Supervisor Wilfrido Contreras Camarena.
+                                Entre otros temas se dió seguimiento al Plan de Mejora Continua, a la implementación del MCCEMS y al programa de Educación Dual.
+                            </p>
 						</div>
 					</div>
 				</div>

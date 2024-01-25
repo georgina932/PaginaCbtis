@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>instalaciones</title>
+	<title>Instalaciones</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
 	<link rel="stylesheet" type="text/css" href="css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="css/lightbox.css">
-	<link rel="stylesheet" type="text/css" href="css/flexslider.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.css">
-	<link rel="stylesheet" type="text/css" href="css/jquery.rateyo.css"/>
 	<link rel="stylesheet" type="text/css" href="css/jquery.mmenu.all.css" />
 	<link rel="stylesheet" type="text/css" href="inner-page-style.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
+<!-- <body class="full-width"> -->
 	<div id="page" class="site">
 		<header class="site-header">
 			<div class="top-header">
@@ -49,34 +48,67 @@
 			<!-- Top header Close -->
 			<div class="main-header">
 				<div class="container">
-					<div class="logo-wrap">
-						<img src="images/site-logo.jpg" alt="Logo Image">
+					<div class="logo-wrap" itemprop="logo">
+
+						<!-- <h1>Education</h1> -->
 					</div>
 					<div class="nav-wrap">
+
 						<nav class="nav-desktop">
 							<ul class="menu-list">
+                                <img src="images/logo2.png" alt="Logo Image" style=" margin-left: -350px;">
+                                <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
+
+
 								<li><a href="#">Inicio</a></li>
-								<li class="menu-parent">Courses
+								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
-										<li><a href="#">Child</a></li>
-										<li><a href="#">Child</a></li>
-										<li class="menu-parent">Child
-											<ul class="sub-menu">
-												<li><a href="">Grand-child</a></li>
-												<li><a href="">Grand-child</a></li>
-											</ul>
-										</li>
+										<li><a href="historia">Historia</a></li>
+										<li><a href="mensaje">Mensaje del director</a></li>
+                                        <li><a href="mvv">Misión, visión y valores</a></li>
+                                        <li><a href="instalaciones">Instalaciones</a></li>
 									</ul>
 								</li>
-								<li class="menu-parent">News
+								<li class="menu-parent">Oferta educativa
 									<ul class="sub-menu">
-										<li><a href="#">Child</a></li>
-										<li><a href="#">Child</a></li>
+										<li><a href="programacion">Técnico en Programación</a></li>
+										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
+                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
 									</ul>
 								</li>
-								<li><a href="">About</a></li>
-								<li><a href="">Gallery</a></li>
-								<li><a href="">Contact</a></li>
+                                <li class="menu-parent">Alumnos
+									<ul class="sub-menu">
+										<li><a href="#">Becas</a></li>
+										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
+                                        <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
+                                        <li><a href="#">clubes</a></li>
+                                        <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Aspirantes
+									<ul class="sub-menu">
+										<li><a href="#">Proceso de admisión</a></li>
+										<li><a href="#">Requisitos</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Servicios escolares
+									<ul class="sub-menu">
+										<li><a href="#">Inscripciones</a></li>
+										<li><a href="#">Boletas e historiales</a></li>
+                                        <li><a href="#">Emisión de certificados </a></li>
+                                        <li><a href="#">Constancias</a></li>
+                                        <li><a href="#">Prácticas</a></li>
+                                        <li><a href="#">Servicio social</a></li>
+                                        <li><a href="#">Titulación</a></li>
+									</ul>
+								</li>
+                                <li class="menu-parent">Transparencia
+									<ul class="sub-menu">
+										<li><a href="transparencia">Rendición de cuentas</a></li>
+
+									</ul>
+								</li>
+
 							</ul>
 						</nav>
 						<div id="bar">
@@ -89,16 +121,17 @@
 				</div>
 			</div>
 		</header>
+
 		<!-- Header Close -->
 		<div class="banner">
 			<div class="owl-four owl-carousel">
-				<img src="images/page-banner.jpg" alt="Image of Bannner">
+				<img src="images/insta.jpg" alt="Image of Bannner">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
 				<img src="images/page-banner3.jpg" alt="Image of Bannner">
 			</div>
 			<div class="container">
-				<h1>welcome to education pro</h1>
-				<h3>With our advance search feature you can now find the trips for you...</h3>
+				<h1>!CBTIS 255¡</h1>
+
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
@@ -129,7 +162,7 @@
 		<!-- Banner Close -->
 		<section class="page-heading">
 			<div class="container">
-				<h2>upcomming events</h2>
+				<h2>Galeria de las instalaciones</h2>
 			</div>
 		</section>
 		<section class="upcomming events-section">
@@ -139,11 +172,10 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
-
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+						<a href=""><h3>🏫 Aulas Equipadas:</h3></a>
+						<p>Aulas modernas y equipadas con tecnología que facilita el aprendizaje teórico,
+                            proporcionando un ambiente propicio para el desarrollo académico.
+                        </p>
 					</div>
 				</div>
 
@@ -152,11 +184,10 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
-
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+						<a href=""><h3>🛠️ Talleres Técnicos:</h3></a>
+						<p>Amplios talleres equipados con maquinaria especializada y herramientas, donde los estudiantes llevan a cabo actividades
+                            prácticas y desarrollan habilidades técnicas en diversas disciplinas.
+                        </p>
 					</div>
 				</div>
 
@@ -165,11 +196,10 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
+						<a href=""><h3>📚 Biblioteca:</h3></a>
+						<p>Un espacio dedicado al estudio y la investigación, con una amplia variedad de recursos, libros y
+                            materiales didácticos para apoyar el aprendizaje de los estudiantes.</p>
 
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
 					</div>
 				</div>
 
