@@ -78,10 +78,17 @@
 								</li>
                                 <li class="menu-parent">Alumnos
 									<ul class="sub-menu">
-										<li><a href="#">Becas</a></li>
+										<li><a href="becas">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
                                         <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
-                                        <li><a href="#">clubes</a></li>
+
+                                            <li class="menu-parent">Club
+                                                <ul class="sub-menu">
+                                                    <li><a href="clubdeportivo">Deportivo</a></li>
+                                                    <li><a href="">Cultural</a></li>
+                                                </ul>
+                                            </li>
+
                                         <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
 									</ul>
 								</li>
@@ -173,7 +180,7 @@
 					</div>
 					<div class="details">
 						<a href=""><h3>🏫 Aulas Equipadas:</h3></a>
-						<p>Aulas modernas y equipadas con tecnología que facilita el aprendizaje teórico,
+						<p style="text-align: justify; color: black;">Aulas modernas y equipadas con tecnología que facilita el aprendizaje teórico,
                             proporcionando un ambiente propicio para el desarrollo académico.
                         </p>
 					</div>
@@ -184,9 +191,10 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>🛠️ Talleres Técnicos:</h3></a>
-						<p>Amplios talleres equipados con maquinaria especializada y herramientas, donde los estudiantes llevan a cabo actividades
-                            prácticas y desarrollan habilidades técnicas en diversas disciplinas.
+						<a href=""><h3>🍽️ Cafetería:</h3></a>
+						<p style="text-align: justify; color: black;">
+                            Un área para que los estudiantes disfruten de alimentos y bebidas durante las pausas,
+                            proporcionando un lugar de encuentro y descanso.
                         </p>
 					</div>
 				</div>
@@ -197,7 +205,7 @@
 					</div>
 					<div class="details">
 						<a href=""><h3>📚 Biblioteca:</h3></a>
-						<p>Un espacio dedicado al estudio y la investigación, con una amplia variedad de recursos, libros y
+						<p style="text-align: justify; color: black;">Un espacio dedicado al estudio y la investigación, con una amplia variedad de recursos, libros y
                             materiales didácticos para apoyar el aprendizaje de los estudiantes.</p>
 
 					</div>
@@ -208,11 +216,11 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
-
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+						<a href=""><h3>🖥️ Laboratorios de Computación: </h3></a>
+						<p style="text-align: justify; color: black;">
+                            Laboratorios con equipos informáticos actualizados que permiten a
+                            los estudiantes adquirir habilidades en el uso de tecnologías de la información.
+                        </p>
 					</div>
 				</div>
 
@@ -221,11 +229,12 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
+						<a href=""><h3>🏋️ Áreas Deportivas:</h3></a>
+						<p style="text-align: justify; color: black;">
+                            Espacios al aire libre para actividades deportivas, fomentando el bienestar físico y
+                             promoviendo un estilo de vida saludable entre los estudiantes.</p>
 
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+
 					</div>
 				</div>
 
@@ -234,52 +243,19 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
+
 					</div>
 				</div>
 
-				<div class="event-wrap">
-					<div class="img-wrap">
-						<img src="images/events.jpg" alt="event images">
-					</div>
-					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
-
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
-					</div>
-				</div>
-
-				<div class="event-wrap">
-					<div class="img-wrap">
-						<img src="images/events.jpg" alt="event images">
-					</div>
-					<div class="details">
-						<a href=""><h3>Orientation Programme for new Students.</h3></a>
-						<p>Orientation Programme for new sffs Students. Orientation Programme for new sffs Students. Orientation Programme for new sffs Students.</p>
-
-						<h5><i class="far fa-clock"></i> Dec 30,2018 | 11am</h5>
-						<h5><i class="fas fa-map-marker-alt"></i> Hotel Malla, Lainchaur</h5>
-					</div>
-				</div>
 			</div>
 		</section>
-		<section class="button-section">
-			<div class="container">
-				<a href="#" class="button">show more</a>
-			</div>
-		</section>
+
 		<!-- Upcomming Events Closed -->
-		<section class="query-section">
-			<div class="container">
-				<p>Any Queries? Ask us a question at<a href="tel:+9779813639131"><i class="fas fa-phone"></i> +977 9813639131</a></p>
-			</div>
-		</section>
+
 		<!-- End of Query Section -->
 		<footer class="page-footer">
 			<div class="footer-first-section">

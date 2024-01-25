@@ -83,7 +83,14 @@
 										<li><a href="becas">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
                                         <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
-                                        <li><a href="#">clubes</a></li>
+
+                                            <li class="menu-parent">Club
+                                                <ul class="sub-menu">
+                                                    <li><a href="clubdeportivo">Deportivo</a></li>
+                                                    <li><a href="">Cultural</a></li>
+                                                </ul>
+                                            </li>
+
                                         <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
 									</ul>
 								</li>
@@ -150,7 +157,7 @@
 					<div class="owl-one owl-carousel">
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap" itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Club deportivo </a>
+								<a href="clubdeportivo" class="learn-desining-banner" itemprop="name">Club deportivo </a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     Este club proporciona un ambiente donde los jugadores pueden entrenar,

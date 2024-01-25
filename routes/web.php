@@ -45,4 +45,7 @@ Route::get('/transparencia', function () {
 Route::get('/becas', function () {
     return view('becas');
 });
+Route::get('/clubdeportivo', function () {
+    return view('clubdeportivo');
+});
 

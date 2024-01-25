@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Transparencia</title>
+	<title>Deportivo</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
@@ -151,7 +151,7 @@
               margin: 0;
               padding: 0;
               background-color: #f8f8f8;
-              color: #333;
+              color: black;
             }
 
             .container {
@@ -159,94 +159,120 @@
               margin: 0 auto;
             }
 
-            .page-article {
+            h1 {
+              font-size: 48px;
+              text-align: center;
+              color: black;
+              margin-top: 50px;
+            }
+
+            .section {
+              display: flex;
+              justify-content: space-around;
+              margin-top: 30px;
+              padding: 20px;
               background-color: #fff;
               border-radius: 10px;
               box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-              margin-top: 30px;
-              padding: 20px;
-              text-align: center; /* Centra el contenido */
+              transition: transform 0.3s ease-in-out;
             }
 
-            .page-article h1 {
-              font-size: 30px;
-              color: #333;
-              margin-bottom: 20px;
+            .section:hover {
+              transform: scale(1.05);
             }
 
-            .page-article img {
-              width: 49%; /* Ajusta el ancho de la imagen */
-              height: auto;
-              border-radius: 10px;
-              margin-top: 20px;
-              display: block; /* Centra la imagen */
-              margin-left: auto;
-              margin-right: auto;
+            .section h3 {
+              font-size: 24px;
+              color: black;
+              margin-bottom: 15px;
             }
 
-            .page-article p {
+            .section p {
               font-size: 20px;
               line-height: 1.6;
-              margin-top: 20px;
-              margin-bottom: 20px;
-              text-align: justify;
-              color: black
             }
 
-            .share-section {
-              font-size: 20px;
-              margin-top: 20px;
+            .values-list {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
             }
 
-            .share-section a {
-              color: #333;
-              margin-right: 15px;
-              text-decoration: none;
+            .values-list-item {
+            font-size: 20px;
+            line-height: 1.6;
+            position: relative;
+            padding-left: 20px;
             }
 
-            .share-section a:hover {
-              color: #007bff;
-            }
-            .image-container {
-                display: flex;
-                justify-content: space-between; /* Ajusta el espacio entre las imágenes */
-            }
-
-            .article-image {
-                width: 90%; /* Ajusta el ancho de las imágenes (puedes ajustar según tus necesidades) */
-                height: auto; /* Mantiene la proporción original de la imagen */
+            .values-list-item::before {
+            content: '\2022'; /* Unicode character for a bullet point */
+            color: #333;
+            font-size: 24px;
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
             }
           </style>
         </head>
         <body>
 
-            <div class="container">
-                <article class="page-article">
-                  <h1>Jornada de transparencia y rendición de cuentas del ciclo 2022-2023</h1>
+          <div class="container">
+            <h1>CLUB DEPORTIVO</h1>
 
-                  <div class="image-container">
-                    <img class="article-image" src="images/transpa.jpg" alt="Image">
-                    <img class="article-image" src="images/transpa2.jpg" alt="Image">
-                  </div>
+            <div class="section">
+              <div>
+                <h3>Futbol</h3>
+                <p style="text-align: justify">
+                    <img src="images/futbol.jpg" alt="Image" > <br>
+                    Un espacio vibrante donde la pasión por el deporte se une con el compromiso académico. Aquí, los estudiantes encuentran más que un equipo;
+                    encuentran una familia unida por el amor al fútbol
+                    y el deseo de representar con orgullo a nuestra institución.<br>
+                    Nuestra Identidad:
+                        <ul class="values-list" >
+                            <li class="values-list-item">🏆 Espíritu Competitivo:  Fomentamos la competitividad sana y el deseo de superación</li>
+                            <li class="values-list-item">⚽ Desarrollo Integral: No solo buscamos la excelencia deportiva, sino también el crecimiento personal y académico </li>
+                            <li class="values-list-item">🌐 Inclusividad: Todos son bienvenidos, independientemente de su nivel de habilidad</li>
+                      </ul>
+                    <p style="text-align: justify; ">Loque ofrecemos:
+                        <ul class="values-list">
+                            <li class="values-list-item">🚀 Entrenamientos: Sesiones de entrenamiento intensivas que desarrollan habilidades</li>
+                            <li class="values-list-item">🤝 Espíritu de Equipo: Fomentamos la camaradería y el compañerismo </li>
+                            <li class="values-list-item">🏟️ Participación en Torneos: Representamos al CBTIS 255 en competiciones locales e intercolegiales</li>
 
-                  <p>
-                    Se realizó hoy por parte de nuestro Director, el ingeniero Ricardo Corona Aguado, el Informe de actividades dentro del marco de la Jornada de Transparencia y Rendición de cuentas del ciclo 2022-2023.
-                    En su informe el director expuso, a los presentes y observadores por parte de la DGETI, el ingeniero Gabino Cruz Mata, Responsable de Planeación y Evaluación de la DGETI en el Estado de Guanajuato, así como la ingeniero Mónica Alvarado Barrera directora del CETis 89 de Salvatierra, las actividades que se han desarrollado dentro del plantel con toda la comunidad estudiantil que orgullosamente forma parte del CBTis 255.
-                    Destacamos y agrademos la distinguida presencia de nuestro Supervisor, el Ing. Wlfrido Contreras Camarena.
-                    En este ejercicio de transparencia queda claro que en el CBTis 255 trabajamos juntos por el bien de nuestros estudiantes y de la sociedad de Tarimoro, Gto.
-                    Nuestro Director hizo énfasis en que el trabajo colaborativo es lo que ha llevado a los buenos resultados del plantel y que aún hay mucho por hacer.
-                    CBTis 255
-                    ¡ L O B O S    G R I S E S !
-                  </p>
-
-                  <div class="share-section">
-                    Compartir vía
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                  </div>
-                </article>
+                      </ul>
+                    </p>
+                    </p>
               </div>
+            </div>
+
+            <div class="section">
+                <div>
+                  <h3>Voleibol</h3>
+                  <p style="text-align: justify">
+                      <img src="images/voli.jpg" alt="Image" > <br>
+                      ¡Bienvenido al Club Deportivo de Voleibol del CBTIS 255, donde la pasión por el juego se combina con la excelencia académica! Nuestro club está dedicado a fomentar el talento,
+                      la camaradería y el desarrollo integral de nuestros estudiantes-atletas.<br>
+                      Nuestra Identidad:
+                          <ul class="values-list" >
+                              <li class="values-list-item">🏐 Espíritu Competitivo: Promovemos la competencia leal y el deseo constante de mejorar</li>
+                              <li class="values-list-item">🤝 Trabajo en Equipo: Creemos en la fuerza del trabajo en equipo </li>
+                              <li class="values-list-item">🌱 Desarrollo Personal: Más allá del rendimiento deportivo, nos comprometemos a cultivar habilidades </li>
+                        </ul>
+                      <p style="text-align: justify; ">Loque ofrecemos:
+                          <ul class="values-list">
+                              <li class="values-list-item">🏆 Participación en Torneos: Representamos al CBTIS 255 en torneos locales e intercolegiales</li>
+                              <li class="values-list-item">📘 Énfasis Académico: Valoramos el rendimiento académico y alentamos a nuestros jugadores </li>
+                              <li class="values-list-item">🤸 Desarrollo Personal: Promovemos el crecimiento personal y la autoconfianza, </li>
+
+                        </ul>
+                      </p>
+                      </p>
+                </div>
+              </div>
+
+          </div>
 
 		<footer class="page-footer">
 			<div class="footer-first-section">
