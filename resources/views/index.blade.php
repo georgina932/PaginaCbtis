@@ -419,6 +419,33 @@
 						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> José Luis Abonce Guerrero</h5>
 					</div>
 				</div>
+                <div class="event-wrap">
+					<div class="img-wrap" itemprop="image">
+						<img src="images/altar.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3 itemprop="name">ALTAR</h3></a>
+						<p itemprop="description" style="text-align: justify; color: black;">
+                            El grupo de 5B de Recursos Humanos han realizado este Altar a nuestros
+                            difuntos, impulsando nuestras tradiciones más arraigadas ecordando a personas que dieron su esfuerzo
+                             y compromiso para que el CBTis sea actualmente la escuela que es.
+                        </p>
+						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> Arq. José Luis Vázquez Villagómez</h5>
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap" itemprop="image">
+						<img src="images/altar.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3 itemprop="name">ALTAR</h3></a>
+						<p itemprop="description" style="text-align: justify; color: black;">
+                            El grupo de 5B de Recursos Humanos han realizado este Altar a nuestros
+                            difuntos, impulsando nuestras tradiciones más arraigadas recordando a personas que dieron su esfuerzo
+                             y compromiso para el CBTis
+						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> Arq. José Luis Vázquez Villagómez</h5>
+					</div>
+				</div>
 			</div>
 		</section>
 
