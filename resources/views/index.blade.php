@@ -172,10 +172,10 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course2-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Club cultural</a>
+								<a href="clubcultural" class="learn-desining-banner" itemprop="name">Actividades culturales</a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
-                                    El propósito del club cultural es crear un ambiente en el que los individuos puedan explorar,
+                                    El propósito es crear un ambiente en el que los individuos puedan explorar,
                                     aprender y disfrutar de diversas expresiones culturales.Además de proporcionar un espacio para la expresión y apreciación cultural,
                                     los clubes culturales fomentan la construcción de comunidades
                                     al reunir a personas con intereses similares.
@@ -186,7 +186,7 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course1-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Ferias de proyectos</a>
+								<a href="proyectos" class="learn-desining-banner" itemprop="name">Ferias de proyectos</a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     La feria proporciona un espacio donde los participantes pueden mostrar sus logros, innovaciones o descubrimientos en diversos campos,
@@ -239,7 +239,7 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/insta.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name">Instalaciones </a>
+								<a href="instalaciones" class="learn-desining-banner" itemprop="name">Instalaciones </a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     Las instalaciones del CBTIS 255 están diseñadas para ofrecer un entorno educativo óptimo, brindando a los estudiantes

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Deportivo</title>
+	<title>Instalaciones</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
@@ -128,152 +128,235 @@
 				</div>
 			</div>
 		</header>
+
 		<!-- Header Close -->
-		<!--<div class="banner">
-			<div class="owl-four owl-carousel">
+        <div class="banner">
+			<div class="owl-four owl-carousel" itemprop="image">
+				<img src="images/banner.jpg" alt="Image of Bannner">
 				<img src="images/page-banner.jpg" alt="Image of Bannner">
-				<img src="images/page-banner2.jpg" alt="Image of Bannner">
-				<img src="images/page-banner3.jpg" alt="Image of Bannner">
+				<img src="images/page-banner33.jpg" alt="Image of Bannner">
 			</div>
-			<div class="container">
-				<h1>welcome to education pro</h1>
-				<h3>With our advance search feature you can now find the trips for you...</h3>
+			<div class="container" itemprop="description">
+				<h1 style="color: black; font-size: 40px;"></h1>
+				<h2></h2>
 			</div>
 			 <div id="owl-four-nav" class="owl-nav"></div>
-		</div> -->
+		</div>
+
 
 		<!-- Banner Close -->
+		<section class="page-heading">
+			<div class="container">
+				<h2>Galeria feria de proyectos</h2>
+			</div>
+		</section>
+		<section class="upcomming events-section">
+			<div class="container">
+				<div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect2.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🏫 Aulas Equipadas:</h3></a>
+						<p style="text-align: justify; color: black;">Aulas modernas y equipadas con tecnología que facilita el aprendizaje teórico,
+                            proporcionando un ambiente propicio para el desarrollo académico.
+                        </p>
+					</div>
+				</div>
+
+				<div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect3.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🍽️ Cafetería:</h3></a>
+						<p style="text-align: justify; color: black;">
+                            Un área para que los estudiantes disfruten de alimentos y bebidas durante las pausas,
+                            proporcionando un lugar de encuentro y descanso.
+                        </p>
+					</div>
+				</div>
+
+				<div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect4.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>📚 Biblioteca:</h3></a>
+						<p style="text-align: justify; color: black;">Un espacio dedicado al estudio y la investigación, con una amplia variedad de recursos, libros y
+                            materiales didácticos para apoyar el aprendizaje de los estudiantes.</p>
+
+					</div>
+				</div>
+
+				<div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect5.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🖥️ Laboratorios de Computación: </h3></a>
+						<p style="text-align: justify; color: black;">
+                            Laboratorios con equipos informáticos actualizados que permiten a
+                            los estudiantes adquirir habilidades en el uso de tecnologías de la información.
+                        </p>
+					</div>
+				</div>
+
+				<div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect6.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🏋️ Áreas Deportivas:</h3></a>
+						<p style="text-align: justify; color: black;">
+                            Espacios al aire libre para actividades deportivas, fomentando el bienestar físico y
+                             promoviendo un estilo de vida saludable entre los estudiantes.</p>
 
 
-        <style>
-            body {
-              font-family: 'Arial', sans-serif;
-              margin: 0;
-              padding: 0;
-              background-color: #f8f8f8;
-              color: black;
-            }
+					</div>
+				</div>
 
-            .container {
-              width: 80%;
-              margin: 0 auto;
-            }
+				<div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect7.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-            h1 {
-              font-size: 48px;
-              text-align: center;
-              color: black;
-              margin-top: 50px;
-            }
 
-            .section {
-              display: flex;
-              justify-content: space-around;
-              margin-top: 30px;
-              padding: 20px;
-              background-color: #fff;
-              border-radius: 10px;
-              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-              transition: transform 0.3s ease-in-out;
-            }
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect8.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-            .section:hover {
-              transform: scale(1.05);
-            }
 
-            .section h3 {
-              font-size: 24px;
-              color: black;
-              margin-bottom: 15px;
-            }
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect9.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-            .section p {
-              font-size: 20px;
-              line-height: 1.6;
-            }
 
-            .values-list {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            }
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect10.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-            .values-list-item {
-            font-size: 20px;
-            line-height: 1.6;
-            position: relative;
-            padding-left: 20px;
-            }
 
-            .values-list-item::before {
-            content: '\2022'; /* Unicode character for a bullet point */
-            color: #333;
-            font-size: 24px;
-            position: absolute;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            }
-          </style>
-        </head>
-        <body>
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect11.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-          <div class="container">
-            <h1>CLUB DEPORTIVO</h1>
 
-            <div class="section">
-              <div>
-                <h3>FUTBOL</h3>
-                <p style="text-align: justify">
-                    <img src="images/futbol.jpg" alt="Image" > <br>
-                    Un espacio vibrante donde la pasión por el deporte se une con el compromiso académico. Aquí, los estudiantes encuentran más que un equipo;
-                    encuentran una familia unida por el amor al fútbol
-                    y el deseo de representar con orgullo a nuestra institución.<br>
-                    Nuestra Identidad:
-                        <ul class="values-list" >
-                            <li class="values-list-item">🏆 Espíritu Competitivo:  Fomentamos la competitividad sana y el deseo de superación</li>
-                            <li class="values-list-item">⚽ Desarrollo Integral: No solo buscamos la excelencia deportiva, sino también el crecimiento personal y académico </li>
-                            <li class="values-list-item">🌐 Inclusividad: Todos son bienvenidos, independientemente de su nivel de habilidad</li>
-                      </ul>
-                    <p style="text-align: justify; ">Loque ofrecemos:
-                        <ul class="values-list">
-                            <li class="values-list-item">🚀 Entrenamientos: Sesiones de entrenamiento intensivas que desarrollan habilidades</li>
-                            <li class="values-list-item">🤝 Espíritu de Equipo: Fomentamos la camaradería y el compañerismo </li>
-                            <li class="values-list-item">🏟️ Participación en Torneos: Representamos al CBTIS 255 en competiciones locales e intercolegiales</li>
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect12.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-                      </ul>
-                    </p>
-                    </p>
-              </div>
-            </div>
 
-            <div class="section">
-                <div>
-                  <h3>VOLEIBOL</h3>
-                  <p style="text-align: justify">
-                      <img src="images/voli.jpg" alt="Image" > <br>
-                      ¡Bienvenido al Club Deportivo de Voleibol del CBTIS 255, donde la pasión por el juego se combina con la excelencia académica! Nuestro club está dedicado a fomentar el talento,
-                      la camaradería y el desarrollo integral de nuestros estudiantes-atletas.<br>
-                      Nuestra Identidad:
-                          <ul class="values-list" >
-                              <li class="values-list-item">🏐 Espíritu Competitivo: Promovemos la competencia leal y el deseo constante de mejorar</li>
-                              <li class="values-list-item">🤝 Trabajo en Equipo: Creemos en la fuerza del trabajo en equipo </li>
-                              <li class="values-list-item">🌱 Desarrollo Personal: Más allá del rendimiento deportivo, nos comprometemos a cultivar habilidades </li>
-                        </ul>
-                      <p style="text-align: justify; ">Loque ofrecemos:
-                          <ul class="values-list">
-                              <li class="values-list-item">🏆 Participación en Torneos: Representamos al CBTIS 255 en torneos locales e intercolegiales</li>
-                              <li class="values-list-item">📘 Énfasis Académico: Valoramos el rendimiento académico y alentamos a nuestros jugadores </li>
-                              <li class="values-list-item">🤸 Desarrollo Personal: Promovemos el crecimiento personal y la autoconfianza, </li>
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect13.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
-                        </ul>
-                      </p>
-                      </p>
-                </div>
-              </div>
 
-          </div>
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect14.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
 
+
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect15.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
+
+
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect16.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
+
+
+					</div>
+				</div>
+                <div class="event-wrap">
+					<div class="img-wrap">
+						<img src="images/proyect17.jpg" alt="event images">
+					</div>
+					<div class="details">
+						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>
+						<p style="text-align: justify; color: black;">Oficinas administrativas y salas de reuniones para la gestión eficiente de los procesos
+                            educativos y la comunicación con estudiantes y padres de familia.</p>
+
+
+					</div>
+				</div>
+               
+
+
+			</div>
+		</section>
+
+		<!-- Upcomming Events Closed -->
+
+		<!-- End of Query Section -->
 		<footer class="page-footer">
 			<div class="footer-first-section">
 				<div class="container">
@@ -359,7 +442,6 @@
 	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="js/lightbox.js"></script>
 	<script type="text/javascript" src="js/all.js"></script>
-	<script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
 	<script type="text/javascript" src="js/owl.carousel.js"></script>
 	<script type="text/javascript" src="js/jquery.flexslider.js"></script>
 	<script type="text/javascript" src="js/jquery.rateyo.js"></script>

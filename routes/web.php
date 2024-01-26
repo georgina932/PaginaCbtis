@@ -51,4 +51,6 @@ Route::get('/clubdeportivo', function () {
 Route::get('/clubcultural', function () {
     return view('clubcultural');
 });
-
+Route::get('/proyectos', function () {
+    return view('proyectos');
+});
