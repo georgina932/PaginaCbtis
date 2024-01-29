@@ -104,9 +104,6 @@
                                 <li class="menu-parent">Servicios escolares
 									<ul class="sub-menu">
 										<li><a href="#">Inscripciones</a></li>
-										<li><a href="#">Boletas e historiales</a></li>
-                                        <li><a href="#">Emisión de certificados </a></li>
-                                        <li><a href="#">Constancias</a></li>
                                         <li><a href="#">Prácticas</a></li>
                                         <li><a href="#">Servicio social</a></li>
                                         <li><a href="#">Titulación</a></li>

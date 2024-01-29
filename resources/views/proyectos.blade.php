@@ -101,9 +101,6 @@
                                 <li class="menu-parent">Servicios escolares
 									<ul class="sub-menu">
 										<li><a href="#">Inscripciones</a></li>
-										<li><a href="#">Boletas e historiales</a></li>
-                                        <li><a href="#">Emisión de certificados </a></li>
-                                        <li><a href="#">Constancias</a></li>
                                         <li><a href="#">Prácticas</a></li>
                                         <li><a href="#">Servicio social</a></li>
                                         <li><a href="#">Titulación</a></li>
@@ -180,7 +177,7 @@
 						<img src="images/proyect4.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>🖥️ Sistema web de logistica de autobuses:</h3></a>
+						<a href=""><h3>🖥️ Sistema web de logistica de autobuses</h3></a>
 						<p style="text-align: justify; color: black;"></p>
 
 					</div>

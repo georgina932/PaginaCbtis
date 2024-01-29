@@ -101,9 +101,6 @@
                                 <li class="menu-parent">Servicios escolares
 									<ul class="sub-menu">
 										<li><a href="#">Inscripciones</a></li>
-										<li><a href="#">Boletas e historiales</a></li>
-                                        <li><a href="#">Emisión de certificados </a></li>
-                                        <li><a href="#">Constancias</a></li>
                                         <li><a href="#">Prácticas</a></li>
                                         <li><a href="#">Servicio social</a></li>
                                         <li><a href="#">Titulación</a></li>
@@ -165,20 +162,9 @@
                     </div>
 
 
-					<div class="grid-box-wrap">
-						<div class="grid-img" itemprop="image">
-							<img src="images/travel-img.jpg" alt="travel images">
-						</div>
-						<div class="grid-body">
-							<h4 itemprop="date">December 10, 2018 | Author | 0 Comments</h4>
-							<h1 itemprop="name">OPORTUNIDAD DE BECA INTERNACIONAL</h1>
-							<p itemprop="description">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum </p>
 
-							<a href="#">Más información <i class="fas fa-long-arrow-alt-right"></i></a>
-						</div>
-					</div>
 
-					<div class="grid-box-wrap">
+					<!--<div class="grid-box-wrap">
 						<div class="grid-img" itemprop="image">
 							<img src="images/travel-img.jpg" alt="travel images">
 						</div>
@@ -256,7 +242,7 @@
 						</div>
 					</div>
 
-                </div>
+                </div> -->
 
 
 
