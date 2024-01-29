@@ -60,13 +60,14 @@
                                 <img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
 
 
-								<li><a href="#">Inicio</a></li>
+								<li><a href="index">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
 										<li><a href="historia">Historia</a></li>
 										<li><a href="mensaje">Mensaje del director</a></li>
                                         <li><a href="mvv">Misión, visión y valores</a></li>
                                         <li><a href="instalaciones">Instalaciones</a></li>
+                                        <li><a href="organigrama">Organigrama</a></li>
 									</ul>
 								</li>
 								<li class="menu-parent">Oferta educativa
@@ -240,9 +241,9 @@
 
 							<a href="#">read more <i class="fas fa-long-arrow-alt-right"></i></a>
 						</div>
-					</div>
+					</div> -->
 
-                </div> -->
+                </div>
 
 
 
@@ -250,65 +251,40 @@
 			</div>
 		</div>
 
-		<footer class="page-footer">
+        <footer class="page-footer">
 			<div class="footer-first-section">
 				<div class="container">
-					<div class="box-wrap">
+                    <div class="box-wrap">
 						<header>
-							<h1>about</h1>
-						</header>
-						<p>Edugate is a great start for and education. Personnel or oganization to start the online business with 1 click</p>
-
-						<h4><a href="tel:+9779813639131"><i class="fas fa-phone"></i> +977 9813639131</a></h4>
-						<h4><a href="mailto:info@educationpro.com"><i class="fas fa-envelope"></i> info@educationpro.com</a></h4>
-						<h4><i class="fas fa-map-marker-alt"></i>Gongabu, Kathmandu, Nepal</h4>
-					</div>
-
-					<div class="box-wrap">
-						<header>
-							<h1>links</h1>
-						</header>
-						<ul>
-							<li><a href="#">Teacher</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-						</ul>
-					</div>
-
-					<div class="box-wrap">
-						<header>
-							<h1>recent courses</h1>
+							<h1>Logos</h1>
 						</header>
 						<div class="recent-course-wrap">
-							<img src="images/ui-ux.jpg" alt="Ui/Ux Designing">
-							<a href=""><div class="course-name">
-								<h3>UI/UX Designer courses</h3>
-								<p><span>$50</span> $40</p>
-							</div></a>
-						</div>
+							<img src="images/logo.jpg" alt="logo1">
 						<div class="recent-course-wrap">
-							<img src="images/ui-ux.jpg" alt="Ui/Ux Designing">
-							<a href=""><div class="course-name">
-								<h3>UI/UX Designer courses</h3>
-								<p><span>$50</span> $40</p>
-							</div></a>
+							<img src="images/logo2.png" alt="logo2">
 						</div>
+                        </div>
 					</div>
-
 					<div class="box-wrap">
 						<header>
-							<h1>quick contact</h1>
+							<h1>Informacion</h1>
+						</header>
+						<p style="text-align: justify">El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
+                            ingresar al mundo laboral o continuar sus estudios en niveles superiores.</p>
+						<h4><i class="fas fa-phone"></i> 4666640378</h4>
+						<h4><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
+						<h4><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. El cuervo Tarimoro, Gto</h4>
+					</div>
+					<div class="box-wrap">
+						<header>
+							<h1>Contacto</h1>
 						</header>
 						<section class="quick-contact">
 							<input type="email" name="email" placeholder="Your Email*">
 							<textarea placeholder="Type your message*"></textarea>
-							<button>send message</button>
+							<button>Enviar mensaje</button>
 						</section>
 					</div>
-
 				</div>
 			</div>
 			<!-- End of box-Wrap -->
@@ -316,18 +292,15 @@
 				<div class="container">
 					<hr class="footer-line">
 					<ul class="social-list">
-						<li><a href=""><i class="fab fa-facebook-square"></i></a></li>
-						<li><a href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a href=""><i class="fab fa-skype"></i></a></li>
-						<li><a href=""><i class="fab fa-youtube"></i></a></li>
-						<li><a href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-square"></i></a></li>
 					</ul>
 					<hr class="footer-line">
 				</div>
 			</div>
+
 			<div class="footer-last-section">
 				<div class="container">
-					<p>Copyright 2018 &copy; educationpro.com <span> | </span> Theme designed and developed by <a href="https://labtheme.com">Lab Theme</a></p>
+					<p>Copyright 2024 &copy; Soprte del CBTis 255 </p>
 				</div>
 			</div>
 		</footer>

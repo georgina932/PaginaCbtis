@@ -54,3 +54,9 @@ Route::get('/clubcultural', function () {
 Route::get('/proyectos', function () {
     return view('proyectos');
 });
+Route::get('/index', function () {
+    return view('index');
+});
+Route::get('/organigrama', function () {
+    return view('organigrama');
+});

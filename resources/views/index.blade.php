@@ -62,13 +62,14 @@
 							<ul class="menu-list">
 								<img src="images/logo2.png" alt="Logo Image" style=" margin-left: -350px;">
 								<img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
-								<li><a href="#">Inicio</a></li>
+								<li><a href="index">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
 										<li><a href="historia">Historia</a></li>
 										<li><a href="mensaje">Mensaje del director</a></li>
                                         <li><a href="mvv">Misión, visión y valores</a></li>
                                         <li><a href="instalaciones">Instalaciones</a></li>
+                                        <li><a href="organigrama">Organigrama</a></li>
 									</ul>
 								</li>
 								<li class="menu-parent">Oferta educativa
@@ -247,8 +248,8 @@
 						</div>
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
-							<div class="img-wrap"  itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="#" class="learn-desining-banner" itemprop="name"> calendario escolar </a>
+							<div class="img-wrap"  itemprop="image"><img src="images/calendario.jpg" alt="courses picture"></div>
+								<a href="pdf/2023-2024 - Calendario Escolar.pdf" class="learn-desining-banner" itemprop="name"> calendario escolar </a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     Es una herramienta crucial que organiza y planifica las actividades académicas y administrativas a lo largo del año.
@@ -432,15 +433,14 @@
 				</div>
                 <div class="event-wrap">
 					<div class="img-wrap" itemprop="image">
-						<img src="images/altar.jpg" alt="event images">
+						<img src="images/curso.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3 itemprop="name">ALTAR</h3></a>
+						<a href=""><h3 itemprop="name">CURSO A DOCENTES</h3></a>
 						<p itemprop="description" style="text-align: justify; color: black;">
-                            El grupo de 5B de Recursos Humanos han realizado este Altar a nuestros
-                            difuntos, impulsando nuestras tradiciones más arraigadas recordando a personas que dieron su esfuerzo
-                             y compromiso para el CBTis
-						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> Arq. José Luis Vázquez Villagómez</h5>
+                            se exploraron diversas metodologías innovadoras y estrategias pedagógicas pertinentes, con la finalidad de elaborar Secuencias didácticas en base
+                            a progresiones en cada una de las Unidades de Aprendizaje Curricular UACs.
+						<h5 itemprop="location"><i class="fas fa-chalkboard-teacher"></i> Mtro. Angel de Jesús Arzate Cervantes</h5>
 					</div>
 				</div>
 			</div>
@@ -504,65 +504,41 @@
 			</div>
 		</section>
 
-		<footer class="page-footer" itemprop="footer" itemscope itemtype="http://schema.org/WPFooter">
+
+		<footer class="page-footer">
 			<div class="footer-first-section">
 				<div class="container">
-					<div class="box-wrap" itemprop="about">
+                    <div class="box-wrap">
 						<header>
-							<h1>Información</h1>
-						</header>
-						<p>Edulab is a great start for and education. Personnel or oganization to start the online business with 1 click</p>
-
-						<h4><a href="tel:+9779813639131"><i class="fas fa-phone"></i> +977 9813639131</a></h4>
-						<h4><a href="mailto:info@educationpro.com"><i class="fas fa-envelope"></i> info@educationpro.com</a></h4>
-						<h4><a href=""><i class="fas fa-map-marker-alt"></i>Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico, 38700</a></h4>
-					</div>
-
-					<div class="box-wrap">
-						<header>
-							<h1>links</h1>
-						</header>
-						<ul>
-							<li><a href="#">Teacher</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-							<li><a href="#">Courses</a></li>
-						</ul>
-					</div>
-
-					<div class="box-wrap">
-						<header>
-							<h1>recent courses</h1>
+							<h1>Logos</h1>
 						</header>
 						<div class="recent-course-wrap">
-							<img src="images/ui-ux.jpg" alt="Ui/Ux Designing">
-							<a href=""><div class="course-name">
-								<h3>UI/UX Designer courses</h3>
-								<p><span>$50</span> $40</p>
-							</div></a>
-						</div>
+							<img src="images/logo.jpg" alt="logo1">
 						<div class="recent-course-wrap">
-							<img src="images/ui-ux.jpg" alt="Ui/Ux Designing">
-							<a href=""><div class="course-name">
-								<h3>UI/UX Designer courses</h3>
-								<p><span>$50</span> $40</p>
-							</div></a>
+							<img src="images/logo2.png" alt="logo2">
 						</div>
+                        </div>
 					</div>
-
 					<div class="box-wrap">
 						<header>
-							<h1>quick contact</h1>
+							<h1>Informacion</h1>
+						</header>
+						<p style="text-align: justify">El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
+                            ingresar al mundo laboral o continuar sus estudios en niveles superiores.</p>
+						<h4><i class="fas fa-phone"></i> 4666640378</h4>
+						<h4><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
+						<h4><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. El cuervo Tarimoro, Gto</h4>
+					</div>
+					<div class="box-wrap">
+						<header>
+							<h1>Contacto</h1>
 						</header>
 						<section class="quick-contact">
 							<input type="email" name="email" placeholder="Your Email*">
 							<textarea placeholder="Type your message*"></textarea>
-							<button>send message</button>
+							<button>Enviar mensaje</button>
 						</section>
 					</div>
-
 				</div>
 			</div>
 			<!-- End of box-Wrap -->
@@ -571,18 +547,17 @@
 					<hr class="footer-line">
 					<ul class="social-list">
 						<li><a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-square"></i></a></li>
-
 					</ul>
 					<hr class="footer-line">
 				</div>
 			</div>
+
 			<div class="footer-last-section">
 				<div class="container">
-					<p>Copyright 2024 &copy; Sistema de soporte <span> | </span> CBTIS 255 <a href="https://labtheme.com">Lobos grises</a></p>
+					<p>Copyright 2024 &copy; Soprte del CBTis 255 </p>
 				</div>
 			</div>
 		</footer>
-
 
 
 	</div>
