@@ -11,124 +11,14 @@
 	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.css">
 	<link rel="stylesheet" type="text/css" href="css/jquery.rateyo.css"/>
-	<!-- <link rel="stylesheet" type="text/css" href="css/jquery.mmenu.all.css" /> -->
-	<!-- <link rel="stylesheet" type="text/css" href="css/meanmenu.min.css"> -->
 	<link rel="stylesheet" type="text/css" href="inner-page-style.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
 	<div id="page" class="site" itemscope itemtype="http://schema.org/LocalBusiness">
-		<header class="site-header">
-			<div class="top-header">
-				<div class="container">
-					<div class="top-header-left">
+		@include('header')
 
-						<div class="top-header-block">
-							<a href="mailto:info@educationpro.com" itemprop="email"><i class="fas fa-envelope"></i> info@educationpro.com</a>
-						</div>
-						<div class="top-header-block">
-							<a href="tel:+9779813639131" itemprop="telephone"><i class="fas fa-phone"></i> +977 9813639131</a>
-						</div>
-					</div>
-					<div class="top-header-right">
-						<div class="social-block">
-							<ul class="social-list">
-								<li><a href=""><i class="fab fa-viber"></i></a></li>
-								<li><a href=""><i class="fab fa-google-plus-g"></i></a></li>
-								<li><a href=""><i class="fab fa-facebook-square"></i></a></li>
-								<li><a href=""><i class="fab fa-facebook-messenger"></i></a></li>
-								<li><a href=""><i class="fab fa-twitter"></i></a></li>
-								<li><a href=""><i class="fab fa-skype"></i></a></li>
-							</ul>
-						</div>
-						<div class="login-block">
-							<a href="">Login /</a>
-							<a href="">Register</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Top header Close -->
-			<div class="main-header">
-				<div class="container">
-					<div class="logo-wrap" itemprop="logo">
-
-						<!-- <h1>Education</h1> -->
-					</div>
-					<div class="nav-wrap">
-
-						<nav class="nav-desktop">
-							<ul class="menu-list">
-								<img src="images/logo2.png" alt="Logo Image" style=" margin-left: -350px;">
-								<img src="images/logo.jpg" alt="Logo Image"style=" margin-left: 20px;" >
-								<li><a href="index">Inicio</a></li>
-								<li class="menu-parent">Nuestro plantel
-									<ul class="sub-menu">
-										<li><a href="historia">Historia</a></li>
-										<li><a href="mensaje">Mensaje del director</a></li>
-                                        <li><a href="mvv">Misión, visión y valores</a></li>
-                                        <li><a href="instalaciones">Instalaciones</a></li>
-                                        <li><a href="organigrama">Organigrama</a></li>
-									</ul>
-								</li>
-								<li class="menu-parent">Oferta educativa
-									<ul class="sub-menu">
-										<li><a href="programacion">Técnico en Programación</a></li>
-										<li><a href="sym">Técnico en Soporte y mantenimiento</a></li>
-                                        <li><a href="RH">Técnico en Administración de recursos humanos</a></li>
-									</ul>
-								</li>
-                                <li class="menu-parent">Alumnos
-									<ul class="sub-menu">
-										<li><a href="becas">Becas</a></li>
-										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
-                                        <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
-
-                                            <li class="menu-parent">Club
-                                                <ul class="sub-menu">
-                                                    <li><a href="clubdeportivo">Deportivo</a></li>
-                                                    <li><a href="clubcultural">Cultural</a></li>
-                                                </ul>
-                                            </li>
-
-                                        <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
-									</ul>
-								</li>
-                                <li class="menu-parent">Aspirantes
-									<ul class="sub-menu">
-										<li><a href="#">Proceso de admisión</a></li>
-										<li><a href="#">Requisitos</a></li>
-									</ul>
-								</li>
-                                <li class="menu-parent">Servicios escolares
-									<ul class="sub-menu">
-										<li><a href="#">Inscripciones</a></li>
-                                        <li><a href="#">Prácticas</a></li>
-                                        <li><a href="#">Servicio social</a></li>
-                                        <li><a href="#">Titulación</a></li>
-									</ul>
-								</li>
-                                <li class="menu-parent">Transparencia
-									<ul class="sub-menu">
-										<li><a href="transparencia">Rendición de cuentas</a></li>
-
-									</ul>
-								</li>
-
-							</ul>
-						</nav>
-						<div id="bar">
-							<i class="fas fa-bars"></i>
-						</div>
-						<div id="close">
-							<i class="fas fa-times"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
-		<!-- Header Close -->
 		<div class="banner">
 			<div class="owl-four owl-carousel" itemprop="image">
 				<img src="images/page-banner2.jpg" alt="Image of Bannner">
@@ -148,6 +38,8 @@
 				<h2>Comunidad Lobos grises</h2>
 			</div>
 		</div>
+
+
 		<!-- Popular courses End -->
 		<div class="learn-courses">
 			<div class="container">
@@ -155,10 +47,10 @@
 					<div class="owl-one owl-carousel">
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap" itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="clubdeportivo" class="learn-desining-banner" itemprop="name">Club deportivo </a>
+								<a href="clubdeportivo" class="learn-desining-banner" itemprop="name">Taller deportivo </a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
-                                    Este club proporciona un ambiente donde los jugadores pueden entrenar,
+                                    Este taller proporciona un ambiente donde los jugadores pueden entrenar,
                                     competir y desarrollar sus habilidades  ademas desempeñan un papel importante en la
                                     construcción de comunidades al brindar oportunidades para la participación de aficionados,
                                     eventos sociales y programas de responsabilidad social
@@ -170,7 +62,7 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course2-pic.jpg" alt="courses picture"></div>
-								<a href="clubcultural" class="learn-desining-banner" itemprop="name">Actividades culturales</a>
+								<a href="clubcultural" class="learn-desining-banner" itemprop="name">Taller cultural</a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     El propósito es crear un ambiente en el que los individuos puedan explorar,
@@ -269,9 +161,10 @@
 				<div class="featured-points">
 					<ul>
 						<li><i class="fas fa-book"></i> Direccción</li>
-						<li><i class="fas fa-map-marker-alt"></i> Blvd. CBTis 255 No. 100, Col. El Cuervo, Tarimoro, Mexico</li>
-						<li><i class="fas fa-chalkboard-teacher"></i> Horario de atención: 7:00 am - 4 pm</li>
-						<li> <i class="fas fa-book"></i> teléfono</li>
+						<li><i class="fas fa-map-marker-alt"></i> Blvd. CBTis 255 No. 100, Col. El Centro, Tarimoro, Mexico</li>
+						<li><i class="fas fa-chalkboard-teacher"></i> Horario de atención: 7:00 am - 3 pm</li>
+						<li><i class="fas fa-book"></i> teléfono : </li>
+                        <li><i class="fas fa-phone"></i> 4666640378</li>
 					</ul>
 				</div>
 				<div class="whyus-wrap">
@@ -505,60 +398,7 @@
 		</section>
 
 
-		<footer class="page-footer">
-			<div class="footer-first-section">
-				<div class="container">
-                    <div class="box-wrap">
-						<header>
-							<h1>Logos</h1>
-						</header>
-						<div class="recent-course-wrap">
-							<img src="images/logo.jpg" alt="logo1">
-						<div class="recent-course-wrap">
-							<img src="images/logo2.png" alt="logo2">
-						</div>
-                        </div>
-					</div>
-					<div class="box-wrap">
-						<header>
-							<h1>Informacion</h1>
-						</header>
-						<p style="text-align: justify">El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
-                            ingresar al mundo laboral o continuar sus estudios en niveles superiores.</p>
-						<h4><i class="fas fa-phone"></i> 4666640378</h4>
-						<h4><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
-						<h4><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. El cuervo Tarimoro, Gto</h4>
-					</div>
-					<div class="box-wrap">
-						<header>
-							<h1>Contacto</h1>
-						</header>
-						<section class="quick-contact">
-							<input type="email" name="email" placeholder="Your Email*">
-							<textarea placeholder="Type your message*"></textarea>
-							<button>Enviar mensaje</button>
-						</section>
-					</div>
-				</div>
-			</div>
-			<!-- End of box-Wrap -->
-			<div class="footer-second-section">
-				<div class="container">
-					<hr class="footer-line">
-					<ul class="social-list">
-						<li><a href="https://www.facebook.com/cbtis255/about?locale=es_LA"><i class="fab fa-facebook-square"></i></a></li>
-					</ul>
-					<hr class="footer-line">
-				</div>
-			</div>
-
-			<div class="footer-last-section">
-				<div class="container">
-					<p>Copyright 2024 &copy; Soprte del CBTis 255 </p>
-				</div>
-			</div>
-		</footer>
-
+		@include('footer')
 
 	</div>
 	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
