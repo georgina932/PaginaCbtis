@@ -36,13 +36,20 @@
               box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
               margin-top: 30px;
               padding: 20px;
-              text-align: center; /* Centra el contenido */
+              text-align: justify /* Centra el contenido */
             }
 
             .page-article h1 {
               font-size: 30px;
               color: #333;
               margin-bottom: 20px;
+              text-align: center;
+            }
+            .page-article h2 {
+              font-size: 20px;
+              color: #333;
+              margin-bottom: 20px;
+              text-align: center;
             }
 
             .page-article img {
@@ -56,10 +63,11 @@
             }
 
             .page-article p {
-              font-size: 18px;
+
+              font-size: 20px;
               line-height: 1.6;
-              margin-top: 20px;
-              margin-bottom: 20px;
+              margin-top: 50px;
+              margin-bottom: 50px;
             }
 
             .share-section {
@@ -74,7 +82,7 @@
             }
 
             .share-section a:hover {
-              color: #007bff;
+              color: #9D2449;
             }
           </style>
         </head>
@@ -84,13 +92,22 @@
             <article class="page-article">
               <h1>MENSAJE DEL DIRECTOR</h1>
               <img src="images/top-college-pic.jpg" alt="Image">
+              <br>
+              <h2> SEMESTRE FEBRERO-JULIO 2024 </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Reciban un gran saludo de quienes laboramos en el CBTis 255.
+              <br>
+
+                Con orgullo puedo decir que nuestro plantel representa una etapa en la vida de nuestros estudiantes, en la cual, sus habilidades, actitudes y conocimientos se desbordan para llegar
+                a ser ciudadanos de gran aporte a la sociedad Tarimorense, con gran compromiso social y gran calidad humana.
+            <br>
+                Agradezco a los padres y madres de familia y tutores que depositan su confianza en el CBTis 255 para que sus hijos e hijas se formen como técnicos en alguna
+                de nuestras especialidades, así también agradezco el compromiso que desde casa han aceptado para fortalecer la educación media-superior de nuestros alumnos y alumnas.
+                <br>
+
+                Les invito a todos los que formamos la comunidad educativa del plantel CBTis 255 a continuar trabajando y a seguir preparándonos para afrontar los retos que la educación nos requiere,
+                les invito a todos y todas a sentirnos orgullosos de ser CBTis 255, Lobos Grises!
+
               </p>
               <div class="share-section">
                 Compartir en:
