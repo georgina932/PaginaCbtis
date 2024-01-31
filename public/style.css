@@ -882,8 +882,8 @@ ul > li {
 	overflow: hidden;
 }*/
 
-.course-listing-page .button-group, 
-.gallery-section .button-group, 
+.course-listing-page .button-group,
+.gallery-section .button-group,
 .gallery-section2 .button-group {
 	text-align: center;
 	margin-bottom: 4.375em;
@@ -963,8 +963,8 @@ ul > li {
 	margin-bottom: 30px;
 }
 
-.learn-courses .box-wrap .img-wrap, 
-.course-listing-page .grid-item .img-wrap, 
+.learn-courses .box-wrap .img-wrap,
+.course-listing-page .grid-item .img-wrap,
 .recent-course-single .grid-item .img-wrap{
 	margin-bottom: -7px;
 }
@@ -975,7 +975,7 @@ ul > li {
 	position: absolute;
 	left: 5%;
 	top: 44%;
-	/*background: #009450;*/
+	background: #9D2449;
 	padding: 0.9375em 3.5625em 1em 3.5625em;
 	/*font-size: 1.8rem;*/
 	/*font-family: "Raleway", sans-serif;*/
@@ -983,12 +983,12 @@ ul > li {
 	/*text-decoration: none;*/
 }
 
-.course-listing-page .grid-item .learn-desining-banner-course, 
+.course-listing-page .grid-item .learn-desining-banner-course,
 .recent-course-single .grid-item .learn-desining-banner-course{
 	/*background: #1c3961;*/
 }
 
-.learn-courses .box-wrap .box-body, 
+.learn-courses .box-wrap .box-body,
 .course-listing-page .grid-item .box-body,
 .recent-course-single .grid-item .box-body{
 	border: 1px solid #b7b7b7;
@@ -996,7 +996,7 @@ ul > li {
 	padding-top: 2.8125em;
 }
 
-.learn-courses .box-body p, 
+.learn-courses .box-body p,
 .course-listing-page .grid-item .box-body p,
 .recent-course-single .grid-item .box-body p {
 	/*font-size: 1.4rem;*/
@@ -1004,7 +1004,7 @@ ul > li {
 	/*color: #5c5c5c;*/
 }
 
-.learn-courses .box-body > p, 
+.learn-courses .box-body > p,
 .course-listing-page .grid-item .box-body > p,
 .recent-course-single .grid-item .box-body > p {
 	margin-top: 1.428em;
@@ -1015,7 +1015,7 @@ ul > li {
 	/*font-family: 'Raleway', sans-serif;*/
 }
 
-.learn-courses .box-body p span , 
+.learn-courses .box-body p span ,
 .course-listing-page .grid-item .box-body p span,
 .recent-course-single .grid-item .box-body p span{
 	color: #060e1a;
@@ -1109,9 +1109,9 @@ ul > li {
       transition: all .3s ease;
       &.disabled:hover {
        background-color: #D6D6D6;
-      }   
+      }
     }
-    
+
   }
 }
 
@@ -1656,8 +1656,8 @@ ul > li {
 }
 
 .grid-box-wrap .grid-img img {
-	border-top-right-radius: 5px; 
-	border-top-left-radius: 5px; 
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
 }
 
 .grid-box-wrap .grid-body {
@@ -1686,7 +1686,7 @@ ul > li {
 	/*font-size: 1.6rem;*/
 	/*font-family: 'Raleway', sans-serif;*/
 	/*color: #5c5c5c;*/
-}	
+}
 
 .grid-box-wrap .grid-body a {
 	/*text-decoration: none;*/
@@ -1826,7 +1826,7 @@ aside .news-letter hr {
 	border: 1px solid #c7c7c7;
 	border-radius: 5px;
 	padding: 1.5625em;
-	padding-bottom: 2em; 
+	padding-bottom: 2em;
 }
 
 .page-content .follow-us h2 {
@@ -1941,7 +1941,7 @@ aside .news-letter hr {
 .page-content .page-article a::after {
 	content: "";
 	border: 1px solid #ccc;
-	width: 1px; 
+	width: 1px;
 	margin-left: 19px;
 	margin-right: 19px;
 }
@@ -2391,7 +2391,7 @@ aside .news-letter hr {
 
 .team-members .developer-wrap img {
 	width: 170px;
-	height: 170px;	
+	height: 170px;
 	/*border-radius: 50%;*/
 	border-bottom-left-radius: 50%;
  	border-bottom-right-radius: 50%;
@@ -2767,7 +2767,7 @@ RESPONSIVE STYLESHEET
 	.latest-news .container .owl-carousel .owl-nav {
 		margin-top: 0;
 	}
-	
+
 
 	/*==Footer Line Part=====*/
 	.page-footer .footer-second-section .footer-line {
@@ -2827,7 +2827,7 @@ RESPONSIVE STYLESHEET
 		Course Listing Page
 	======================================*/
 
-	.course-listing-page .button-group::after, 
+	.course-listing-page .button-group::after,
 	.gallery-section2 .button-group::after{
 		left: 23%;
 	}
@@ -2892,7 +2892,7 @@ RESPONSIVE STYLESHEET
 	/*====navigation=====*/
 	.menu-list {
 		flex-direction: column;
-	}	
+	}
 
 	.nav-desktop {
 		display: none;
@@ -3078,7 +3078,7 @@ RESPONSIVE STYLESHEET
 	#course-page .course-intro {
 		padding-top: 3em;
 	}
-	
+
 }
 
 @media screen and (max-width: 767px) {
@@ -3328,8 +3328,8 @@ RESPONSIVE STYLESHEET
 
 	/*===Popular Courses==*/
 
-	.learn-courses .learn-desining-banner, 
-	.course-listing-page .grid-item .learn-desining-banner-course, 
+	.learn-courses .learn-desining-banner,
+	.course-listing-page .grid-item .learn-desining-banner-course,
 	.recent-course-single .grid-item .learn-desining-banner-course {
 		top: 37% !important;
 		left: 3%;
@@ -3345,7 +3345,7 @@ RESPONSIVE STYLESHEET
 	}
 
 	.events-section .event-wrap,
-	.events-section .event-wrap .img-wrap 
+	.events-section .event-wrap .img-wrap
 	{
 		width: 280px;
 	}
@@ -3393,12 +3393,12 @@ RESPONSIVE STYLESHEET
 		Course Listing Page
 	==========================*/
 
-	.course-listing-page .button-group::after, 
+	.course-listing-page .button-group::after,
 	.gallery-section2 .button-group::after {
 		width: 240px;
 	}
 
-	.course-listing-page .grid-item, 
+	.course-listing-page .grid-item,
 	.recent-course-single .grid-item {
     width: 270px;
 	}
@@ -3497,7 +3497,7 @@ RESPONSIVE STYLESHEET
 	padding: 34px 65px 45px 65px;
 }
 
-.what-other-say .container .customer-item .customer-img, 
+.what-other-say .container .customer-item .customer-img,
 .what-other-say .container .customer-item .rateYo{
 	text-align: center;
 	margin-left: auto;

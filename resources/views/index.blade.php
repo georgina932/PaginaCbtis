@@ -32,6 +32,12 @@
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
 
+        <style>
+        .learn-desining-banner a {
+            background-color: #ff0000; /* Cambia el color al que desees */
+            color: #ffffff; /* Cambia el color del texto si es necesario */
+            /* Agrega cualquier otro estilo necesario */
+        }</style>
 		<!-- Banner Close -->
 		<div class="page-heading">
 			<div class="container">
@@ -47,7 +53,7 @@
 					<div class="owl-one owl-carousel">
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap" itemprop="image"><img src="images/course-pic.jpg" alt="courses picture"></div>
-								<a href="clubdeportivo" class="learn-desining-banner" itemprop="name">Taller deportivo </a>
+								<a href="clubdeportivo" class="learn-desining-banner" itemprop="name" >Taller deportivo </a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     Este taller proporciona un ambiente donde los jugadores pueden entrenar,
