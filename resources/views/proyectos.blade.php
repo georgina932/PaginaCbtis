@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Instalaciones</title>
+	<title>Proyectos</title>
 	<meta name="viewport" content="width=device-width">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/all.css">
@@ -20,8 +20,7 @@
         <div class="banner">
 			<div class="owl-four owl-carousel" itemprop="image">
 				<img src="images/banner.jpg" alt="Image of Bannner">
-				<img src="images/page-banner.jpg" alt="Image of Bannner">
-				<img src="images/page-banner33.jpg" alt="Image of Bannner">
+
 			</div>
 			<div class="container" itemprop="description">
 				<h1 style="color: black; font-size: 40px;"></h1>

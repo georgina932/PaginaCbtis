@@ -60,3 +60,6 @@ Route::get('/index', function () {
 Route::get('/organigrama', function () {
     return view('organigrama');
 });
+Route::get('/admiciones', function () {
+    return view('admiciones');
+});

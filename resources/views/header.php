@@ -109,16 +109,14 @@
 								</li>
                                 <li class="menu-parent">Aspirantes
 									<ul class="sub-menu">
-										<li><a href="#">Proceso de admisión</a></li>
-										<li><a href="#">Requisitos</a></li>
+										<li><a href="admiciones">Proceso de admisión</a></li>
+
 									</ul>
 								</li>
                                 <li class="menu-parent">Servicios escolares
 									<ul class="sub-menu">
-										<li><a href="#">Inscripciones</a></li>
-                                        <li><a href="#">Prácticas</a></li>
-                                        <li><a href="#">Servicio social</a></li>
-                                        <li><a href="#">Titulación</a></li>
+										<li><a href="https://sway.cloud.microsoft/TYWQEH9fiOYUwasZ?ref=Link"> </a>Página principal de Servicios Escolares</li>
+
 									</ul>
 								</li>
                                 <li class="menu-parent">Transparencia

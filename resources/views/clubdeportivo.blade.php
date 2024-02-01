@@ -275,7 +275,7 @@
                 <div class="section">
                     <div>
                         <h3>EMPRENDIMIENTO</h3>
-                        <p><i class="fas fa-chalkboard-teacher"></i> Angel de Jesus </p>
+                        <p><i class="fas fa-chalkboard-teacher"></i> Angel de Jesús Arzate Cervantes</p>
                       <br>
                         <p style="text-align: justify">
                             <img src="images/empren.jpg" alt="Image"  > <br>
@@ -336,6 +336,75 @@
                                 <ul class="values-list">
                                     <li class="values-list-item">✂️ Técnicas de Costura</li>
                                     <li class="values-list-item">🧵 Bordado Creativo</li>
+                              </ul>
+                            </p>
+                        </p>
+                    </div>
+                </div>
+                <div class="section">
+                    <div>
+                        <h3>BANDA DE VIENTO </h3>
+                        <p><i class="fas fa-chalkboard-teacher"></i> Francisco Patiño Méndez </p>
+                      <br>
+                        <p style="text-align: justify">
+                            <img src="images/banda.jpg" alt="Image" width="1000"  > <br>
+                            ¡Bienvenidos al Taller de Banda de Viento del CBTIS 255, donde la armonía, la musicalidad y la pasión por la música se fusionan para crear una experiencia enriquecedora! Este taller está dedicado a estudiantes interesados en explorar el mundo de la música a través de la interpretación de instrumentos de viento.
+                            <br> Nuestra Identidad:
+                                <ul class="values-list" >
+                                    <li class="values-list-item">🎺 Pasión por la Música</li>
+                                    <li class="values-list-item">🎵 Arte de la Interpretación</li>
+                                    <li class="values-list-item">🤝 Comunidad Musical</li>
+                              </ul>
+                            <p style="text-align: justify; ">Loque ofrecemos:
+                                <ul class="values-list">
+                                    <li class="values-list-item">🎼 Práctica Instrumental</li>
+                                    <li class="values-list-item">🥁 Participación en Eventos</li>
+                              </ul>
+                            </p>
+                        </p>
+                    </div>
+                </div>
+                <div class="section">
+                    <div>
+                        <h3>LISTON </h3>
+                        <p><i class="fas fa-chalkboard-teacher"></i> Esmeralda Ortiz Glz. </p>
+                      <br>
+                        <p style="text-align: justify">
+                            <img src="images/iston.jpg" alt="Image" width="1000"  > <br>
+                            ¡Bienvenidos al Taller de Listón del CBTIS 255, donde la creatividad, la destreza manual y la expresión artística se entrelazan para crear hermosas y coloridas creaciones con listones! Este taller está diseñado para estudiantes interesados en explorar las posibilidades artísticas y decorativas del uso de listones en diversos proyectos.
+                            <br> Nuestra Identidad:
+                                <ul class="values-list" >
+                                    <li class="values-list-item">🎀 Creatividad con Listones</li>
+                                    <li class="values-list-item">✂️ Habilidad Manua</li>
+                                    <li class="values-list-item">🌈 Color y Diseño</li>
+                              </ul>
+                            <p style="text-align: justify; ">Loque ofrecemos:
+                                <ul class="values-list">
+                                    <li class="values-list-item">🎨 Proyectos Creativos</li>
+                                    <li class="values-list-item">🧵 Técnicas de Tejido</li>
+                              </ul>
+                            </p>
+                        </p>
+                    </div>
+                </div>
+                <div class="section">
+                    <div>
+                        <h3>TALLER DE CIENCIAS </h3>
+                        <p><i class="fas fa-chalkboard-teacher"></i> Fernando Guadalupe Acevedo </p>
+                      <br>
+                        <p style="text-align: justify">
+                            <img src="images/ciencia.jpg" alt="Image" width="1000"  > <br>
+                            ¡Bienvenidos al Taller de Ciencias del CBTIS 255, donde la curiosidad, la experimentación y el descubrimiento son la base para explorar el fascinante mundo de las ciencias! Este taller está diseñado para estudiantes interesados en profundizar en disciplinas científicas
+                            <br> Nuestra Identidad:
+                                <ul class="values-list" >
+                                    <li class="values-list-item">🔬 Curiosidad Científica</li>
+                                    <li class="values-list-item">🌐 Exploración Multidisciplinaria</li>
+                                    <li class="values-list-item">🤝 Colaboración Científica</li>
+                              </ul>
+                            <p style="text-align: justify; ">Loque ofrecemos:
+                                <ul class="values-list">
+                                    <li class="values-list-item">🌡️ Experimentación Práctica</li>
+                                    <li class="values-list-item">🧪 Proyectos de Investigación</li>
                               </ul>
                             </p>
                         </p>

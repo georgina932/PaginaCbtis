@@ -374,8 +374,8 @@
 							<h2 itemprop="startDate">CBTis 255 | 10 Enero. 2014</h2>
 
 							<p style="color: black" >
-                                El Director Mtro. Ricardo Corona Aguado y el Jefe de Vinculación Mtro. Enrique Méndez Patiño, asistieron a la firma  de Convenios
-                                para el Pase Directo de los alumnos de alto promedio
+                                El Director Ricardo Corona Aguado y el Jefe de Vinculación  Enrique Méndez Patiño, asistieron a la firma  de Convenios
+                                para el Pase directo.
 
                             </p>
 						</div>

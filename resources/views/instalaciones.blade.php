@@ -15,6 +15,17 @@
 </head>
 <body>
     @include('header')
+    <div class="banner">
+        <div class="owl-four owl-carousel" itemprop="image">
+            <img src="images/insta.jpg" alt="Image of Bannner">
+
+        </div>
+        <div class="container" itemprop="description">
+            <h1 style="color: black; font-size: 40px;"></h1>
+            <h2></h2>
+        </div>
+         <div id="owl-four-nav" class="owl-nav"></div>
+    </div>
 		<section class="page-heading">
 			<div class="container">
 				<h2>Galeria de las instalaciones</h2>
