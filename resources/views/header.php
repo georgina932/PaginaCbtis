@@ -8,7 +8,7 @@
             }
 
             .site-header {
-                background-color: #dddddd; /* Color de fondo del encabezado */
+                background-color: #DDDDDD; /* Color de fondo del encabezado */
                 color: #404041; /* Color del texto del encabezado */
                 padding: 10px 0;
             }
@@ -97,14 +97,13 @@
 										<li><a href="becas">Becas</a></li>
 										<li><a href="https://surems.seg.guanajuato.gob.mx/Account/Index">atlas surems</a></li>
                                         <li><a href="pdf/Reglamento interno CBTIS 255 2023-2024.pdf">Reglamento escolar</a></li>
-
-                                            <li class="menu-parent">Taller
+                                        <li><a href="clubdeportivo">Talleres</a></li>
+                                       <!-- <li class="menu-parent">Talleres
                                                 <ul class="sub-menu">
                                                     <li><a href="clubdeportivo">Deportivo</a></li>
                                                     <li><a href="clubcultural">Cultural</a></li>
                                                 </ul>
-                                            </li>
-
+                                            </li> -->
                                         <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
 									</ul>
 								</li>

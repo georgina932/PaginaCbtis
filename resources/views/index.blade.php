@@ -32,7 +32,7 @@
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
 
-        
+
 		<!-- Banner Close -->
 		<div class="page-heading">
 			<div class="container">
@@ -63,7 +63,7 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course2-pic.jpg" alt="courses picture"></div>
-								<a href="clubcultural" class="learn-desining-banner" itemprop="name">Taller cultural</a>
+								<a href="clubdeportivo" class="learn-desining-banner" itemprop="name">Taller cultural</a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     El propósito es crear un ambiente en el que los individuos puedan explorar,
@@ -75,6 +75,7 @@
 							</div>
 						</div>
 
+
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/course1-pic.jpg" alt="courses picture"></div>
 								<a href="proyectos" class="learn-desining-banner" itemprop="name">Ferias de proyectos</a>
@@ -82,7 +83,7 @@
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     La feria proporciona un espacio donde los participantes pueden mostrar sus logros, innovaciones o descubrimientos en diversos campos,
                                     desde ciencia y tecnología hasta arte y emprendimiento.Además se fomenta la colaboración, la creatividad y
-                                    el intercambio de conocimientos entre los participantes y el público y tambien es una gran motivación para los demas alumnos.
+                                    el intercambio de conocimientos entre los participantes y el público, siendo asi una motivación para los demas alumnos.
                                 </p>
 
 							</div>
@@ -142,7 +143,7 @@
 
 						<div class="box-wrap" itemprop="event" itemscope itemtype=" http://schema.org/Course">
 							<div class="img-wrap"  itemprop="image"><img src="images/calendario.jpg" alt="courses picture"></div>
-								<a href="pdf/2023-2024 - Calendario Escolar.pdf" class="learn-desining-banner" itemprop="name"> calendario escolar </a>
+								<a href="pdf/2023-2024 - Calendario Escolar.pdf" class="learn-desining-banner" itemprop="name"> Calendario escolar </a>
 							<div class="box-body" itemprop="description">
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     Es una herramienta crucial que organiza y planifica las actividades académicas y administrativas a lo largo del año.

@@ -1,12 +1,12 @@
-<footer class="page-footer">
+<footer class="page-footer" style="background-color: #404041;">
 			<div class="footer-first-section">
 				<div class="container">
                     <div class="box-wrap">
 						<header>
-							<h1>Logos</h1>
+							<h1  >Logos</h1>
 						</header>
 						<div class="recent-course-wrap">
-							<img src="images/logo2.png" alt="logo">
+							<img src="images/logo2.png" alt="logo" >
 
                         </div>
 					</div>
@@ -15,11 +15,12 @@
 							<h1>Informacion</h1>
 						</header>
 						<p style="text-align: justify">El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
-                            ingresar al mundo laboral o continuar sus estudios en niveles superiores.</p>
+                            ingresar al mundo laboral o continuar sus estudios en niveles superiores.
 						<h4><i class="fas fa-phone"></i> 4666640378</h4>
 						<h4><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
-						<h4><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. El cuervo Tarimoro, Gto</h4>
-					</div>
+						<h4><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. El centro Tarimoro, Gto</h4>
+                        </p>
+                    </div>
 					<div class="box-wrap">
 						<header>
 							<h1>Contacto</h1>

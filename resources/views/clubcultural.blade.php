@@ -90,11 +90,13 @@
         <body>
 
           <div class="container">
-            <h1>ACTIVIDADES CULTURAL</h1>
+            <h1>TALLERES CULTURALES</h1>
 
             <div class="section">
               <div>
                 <h3>AJEDREZ</h3>
+                <p><i class="fas fa-chalkboard-teacher"></i>  Enrique Mendez P.</p>
+                <br>
                 <p style="text-align: justify">
                     <img src="images/ajedrez.jpg" alt="Image" width="1000" > <br>
                     Donde la estrategia, la mente aguda y la pasión por el ajedrez se encuentran! Nuestro club está diseñado para estudiantes que comparten el amor por este juego milenario
@@ -118,19 +120,21 @@
 
             <div class="section">
                 <div>
-                  <h3>ESCOLTA</h3>
+                  <h3>BANDA DE GUERRA</h3>
+                  <p><i class="fas fa-chalkboard-teacher"></i>  Tania Hernandez Zamora</p>
+                <br>
                   <p style="text-align: justify">
-                      <img src="images/escolta2.jpg" alt="Image" width="1000" > <br>
-                        El compromiso, la disciplina y el espíritu de servicio se fusionan para formar líderes destacados! Nuestro club se enorgullece de
+                      <img src="images/escolta.jpg" alt="Image" width="1000" > <br>
+                        El compromiso, la disciplina y el espíritu de servicio se fusionan para formar líderes destacados! Nuestro taller se enorgullece de
                         cultivar habilidades cívicas y fomentar el respeto a los valores institucionales.
                           <ul class="values-list" >
                               <li class="values-list-item">🛡️ Disciplina y Rigor: Enseñamos y fomentamos los valores fundamentales ejemplo el respeto y la puntualidad</li>
-                              <li class="values-list-item">🤝 Trabajo en Equipo: La escolta es más que un grupo trabajamos juntos para perfeccionar nuestras habilidades </li>
+                              <li class="values-list-item">🤝 Trabajo en Equipo: La bande de guerra es más que un grupo trabajamos juntos para perfeccionar nuestras habilidades </li>
                               <li class="values-list-item">🎓 Civismo y Responsabilidad: Brindamos a nuestros miembros las herramientas para ser líderes en su vida cotidiana.</li>
                         </ul>
                       <p style="text-align: justify; ">Loque ofrecemos:
                           <ul class="values-list">
-                              <li class="values-list-item">🚶 Formaciones y Protocolos: Aprendizaje y práctica de formaciones y protocolos de escolta</li>
+                              <li class="values-list-item">🚶 Formaciones y Protocolos: Aprendizaje y práctica de formaciones y protocolos de banda</li>
                               <li class="values-list-item">🎓 Desarrollo Personal: Además de habilidades físicas, enfocamos el desarrollo personal </li>
 
 
@@ -141,7 +145,9 @@
               </div>
               <div class="section">
                 <div>
-                  <h3>DANZA</h3>
+                  <h3>DANZA FOLCLORICA</h3>
+                  <p><i class="fas fa-chalkboard-teacher"></i> Maria del Rosario Muñoz Rodriguez</p>
+                <br>
                   <p style="text-align: justify">
                       <img src="images/danza.jpg" alt="Image" width="1000" > <br>
                       Donde la expresión artística y la pasión por el movimiento se fusionan para crear una comunidad vibrante y creativa!
