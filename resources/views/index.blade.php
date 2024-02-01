@@ -32,12 +32,7 @@
 			 <div id="owl-four-nav" class="owl-nav"></div>
 		</div>
 
-        <style>
-        .learn-desining-banner a {
-            background-color: #ff0000; /* Cambia el color al que desees */
-            color: #ffffff; /* Cambia el color del texto si es necesario */
-            /* Agrega cualquier otro estilo necesario */
-        }</style>
+        
 		<!-- Banner Close -->
 		<div class="page-heading">
 			<div class="container">
@@ -87,7 +82,7 @@
 								<p style="text-align: justify; color: black; line-height: 1.6;">
                                     La feria proporciona un espacio donde los participantes pueden mostrar sus logros, innovaciones o descubrimientos en diversos campos,
                                     desde ciencia y tecnología hasta arte y emprendimiento.Además se fomenta la colaboración, la creatividad y
-                                    el intercambio de conocimientos entre los participantes y el público,
+                                    el intercambio de conocimientos entre los participantes y el público y tambien es una gran motivación para los demas alumnos.
                                 </p>
 
 							</div>

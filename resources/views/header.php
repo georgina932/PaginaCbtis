@@ -74,7 +74,7 @@
 						<nav class="nav-desktop">
 							<ul class="menu-list">
 
-								<img src="images/logo.2.png" alt="Logo Image"style=" margin-left: -150px;" >
+								<img src="images/logo.2.png" alt="Logo Image"style=" margin-left: -180px;" >
 								<li><a href="index">Inicio</a></li>
 								<li class="menu-parent">Nuestro plantel
 									<ul class="sub-menu">
