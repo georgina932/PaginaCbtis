@@ -6,7 +6,11 @@
 							<h1  >Logos</h1>
 						</header>
 						<div class="recent-course-wrap">
-							<img src="images/logo2.png" alt="logo" >
+                        </div>
+                        <div>
+                        <img src="images/logo2.png" alt="logo" >
+                        <br>
+                        <img src="images/logo1.jpg" alt="logos">
 
                         </div>
 					</div>
@@ -14,22 +18,18 @@
 						<header>
 							<h1>Informacion</h1>
 						</header>
-						<p style="text-align: justify">El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
+						<p style="text-align: justify; font-size: 18px" >El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
                             ingresar al mundo laboral o continuar sus estudios en niveles superiores.
-						<h4><i class="fas fa-phone"></i> 4666640378</h4>
-						<h4><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
-						<h4><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. El centro Tarimoro, Gto</h4>
+						<h4 style="text-align: justify; font-size: 18px"><i class="fas fa-phone"></i> 4666640378</h4>
+						<h4 style="text-align: justify; font-size: 18px"><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
+						<h4 style="text-align: justify; font-size: 18px"><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. Centro Tarimoro, Gto</h4>
                         </p>
                     </div>
 					<div class="box-wrap">
 						<header>
-							<h1>Contacto</h1>
+							<h1>Buzon de quejas y sugerencias</h1>
 						</header>
-						<section class="quick-contact">
-							<input type="email" name="email" placeholder="Your Email*">
-							<textarea placeholder="Type your message*"></textarea>
-							<button>Enviar mensaje</button>
-						</section>
+                        <p style="text-align: justify; font-size: 18px">cbtis255.dir@gmail.com</p>
 					</div>
 				</div>
 			</div>

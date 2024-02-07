@@ -162,10 +162,10 @@
 			<div class="container">
 				<div class="featured-points">
 					<ul>
-						<li><i class="fas fa-book"></i> Direccción</li>
-						<li><i class="fas fa-map-marker-alt"></i> Blvd. CBTis 255 No. 100, Col. El Centro, Tarimoro, Mexico</li>
-						<li><i class="fas fa-chalkboard-teacher"></i> Horario de atención: 7:00 am - 3 pm</li>
-						<li><i class="fas fa-book"></i> teléfono : </li>
+						<li><i class="fas fa-book"></i> Direccción:</li>
+						<li><i class="fas fa-map-marker-alt"></i> Blvd. CBTis 255 No. 100, Col. Centro, Tarimoro, Mexico</li>
+						<li><i class="fas fa-chalkboard-teacher"></i> Horario de atención: 7:00 a.m - 3:00 p.m</li>
+						<li><i class="fas fa-book"></i> teléfono: </li>
                         <li><i class="fas fa-phone"></i> 4666640378</li>
 					</ul>
 				</div>

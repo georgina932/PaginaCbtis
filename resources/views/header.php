@@ -82,7 +82,7 @@
 										<li><a href="mensaje">Mensaje del director</a></li>
                                         <li><a href="mvv">Misión, visión y valores</a></li>
                                         <li><a href="instalaciones">Instalaciones</a></li>
-                                        <li><a href="organigrama">Organigrama</a></li>
+                                        <li><a href="pdf/ORGANIGRAMA 2024.pdf">Organigrama</a></li>
 									</ul>
 								</li>
 								<li class="menu-parent">Oferta educativa
@@ -104,12 +104,12 @@
                                                     <li><a href="clubcultural">Cultural</a></li>
                                                 </ul>
                                             </li> -->
-                                        <li><a href="#">Pagos extraordinarios y recursamiento</a></li>
+                                        <li><a href="pdf/aportaciones 2024.pdf">Aportacion de padres de familia semestre feb-jul 2024</a></li>
 									</ul>
 								</li>
                                 <li class="menu-parent">Aspirantes
 									<ul class="sub-menu">
-										<li><a href="admiciones">Proceso de admisión</a></li>
+										<li><a href="pdf/pago de ficha.pdf">Pago de ficha 2024</a></li>
 
 									</ul>
 								</li>
