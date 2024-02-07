@@ -45,7 +45,7 @@
 					</div>
 				</div>
 
-				<div class="event-wrap">
+				<!--<div class="event-wrap">
 					<div class="img-wrap">
 						<img src="images/events.jpg" alt="event images">
 					</div>
@@ -56,7 +56,7 @@
                             proporcionando un lugar de encuentro y descanso.
                         </p>
 					</div>
-				</div>
+				</div>-->
 
 				<div class="event-wrap">
 					<div class="img-wrap">
@@ -72,7 +72,7 @@
 
 				<div class="event-wrap">
 					<div class="img-wrap">
-						<img src="images/events.jpg" alt="event images">
+						<img src="images/compu.jpg" alt="event images">
 					</div>
 					<div class="details">
 						<a href=""><h3>🖥️ Laboratorios de Computación: </h3></a>
