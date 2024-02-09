@@ -19,7 +19,7 @@
 							<h1>Informacion</h1>
 						</header>
 						<p style="text-align: justify; font-size: 18px" >El CBTis 255 está diseñado para proporcionar a los estudiantes una educación técnica y práctica que los prepare para
-                            ingresar al mundo laboral o continuar sus estudios en niveles superiores.
+                            ingresar al mundo laboral o continuar sus estudios en nivel superior.
 						<h4 style="text-align: justify; font-size: 18px"><i class="fas fa-phone"></i> 4666640378</h4>
 						<h4 style="text-align: justify; font-size: 18px"><i class="fas fa-envelope"></i> cbtis255.dir@dgeti.sems.gob.mx</h4>
 						<h4 style="text-align: justify; font-size: 18px"><i class="fas fa-map-marker-alt"></i>Boulevard cbtis 255 #100 col. Centro Tarimoro, Gto</h4>

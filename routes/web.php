@@ -57,8 +57,8 @@ Route::get('/proyectos', function () {
 Route::get('/index', function () {
     return view('index');
 });
-Route::get('/organigrama', function () {
-    return view('organigrama');
+Route::get('/ficha', function () {
+    return view('ficha');
 });
 Route::get('/admiciones', function () {
     return view('admiciones');

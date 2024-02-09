@@ -38,7 +38,7 @@
 						<img src="images/events.jpg" alt="event images">
 					</div>
 					<div class="details">
-						<a href=""><h3>🏫 Aulas Equipadas:</h3></a>
+						<a href=""><h3>🏫 Aulas de clase:</h3></a>
 						<p style="text-align: justify; color: black;">Aulas modernas y equipadas con tecnología que facilita el aprendizaje teórico,
                             proporcionando un ambiente propicio para el desarrollo académico.
                         </p>
@@ -85,7 +85,7 @@
 
 				<div class="event-wrap">
 					<div class="img-wrap">
-						<img src="images/events.jpg" alt="event images">
+						<img src="images/deportivo.jpg" alt="event images">
 					</div>
 					<div class="details">
 						<a href=""><h3>🏋️ Áreas Deportivas:</h3></a>
@@ -99,7 +99,7 @@
 
 				<div class="event-wrap">
 					<div class="img-wrap">
-						<img src="images/events.jpg" alt="event images">
+						<img src="images/admi.jpg" alt="event images">
 					</div>
 					<div class="details">
 						<a href=""><h3>🎓 Espacios Administrativos:</h3></a>

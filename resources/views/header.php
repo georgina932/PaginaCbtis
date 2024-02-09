@@ -110,12 +110,13 @@
                                 <li class="menu-parent">Aspirantes
 									<ul class="sub-menu">
 										<li><a href="pdf/pago de ficha.pdf">Pago de ficha 2024</a></li>
+                                        <li><a href="ficha">Entrega de fichas</a></li>
 
 									</ul>
 								</li>
                                 <li class="menu-parent">Servicios escolares
 									<ul class="sub-menu">
-										<li><a href="https://sway.cloud.microsoft/TYWQEH9fiOYUwasZ?ref=Link"> </a>Página principal de Servicios Escolares</li>
+										<li><a href="https://sway.cloud.microsoft/TYWQEH9fiOYUwasZ?ref=Link"> Página principal de Servicios Escolares</a></li>
 
 									</ul>
 								</li>
