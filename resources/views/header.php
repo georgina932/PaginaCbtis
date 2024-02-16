@@ -117,8 +117,9 @@
                                 <li class="menu-parent">Servicios escolares
 									<ul class="sub-menu">
 										<li><a href="https://sway.cloud.microsoft/TYWQEH9fiOYUwasZ?ref=Link"> Página principal de Servicios Escolares</a></li>
-
+                                        <li><a href="servicio">Documentos servicio social</a></li>
 									</ul>
+
 								</li>
                                 <li class="menu-parent">Transparencia
 									<ul class="sub-menu">

@@ -63,3 +63,7 @@ Route::get('/ficha', function () {
 Route::get('/admiciones', function () {
     return view('admiciones');
 });
+Route::get('/servicio', function () {
+    return view('servicio');
+});
+

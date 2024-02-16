@@ -115,6 +115,7 @@
           </div>
         </article>
       </div>
+      <br>
 
       @include('footer')
 	</div>
