@@ -66,4 +66,7 @@ Route::get('/admiciones', function () {
 Route::get('/servicio', function () {
     return view('servicio');
 });
+Route::get('/practicas', function () {
+    return view('practicas');
+});
 

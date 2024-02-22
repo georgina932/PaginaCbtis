@@ -118,6 +118,7 @@
 									<ul class="sub-menu">
 										<li><a href="https://sway.cloud.microsoft/TYWQEH9fiOYUwasZ?ref=Link"> Página principal de Servicios Escolares</a></li>
                                         <li><a href="servicio">Documentos servicio social</a></li>
+                                        <li><a href="practicas">Documentos prácticas profesionales</a></li>
 									</ul>
 
 								</li>
